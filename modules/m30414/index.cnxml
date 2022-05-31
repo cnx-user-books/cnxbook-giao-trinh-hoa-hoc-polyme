@@ -1,0 +1,1299 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Cơ sở của quá trình thanh trùng đồ hộp thực phẩm</title>
+  <metadata>
+  <md:content-id>m30414</md:content-id><md:title>Cơ sở của quá trình thanh trùng đồ hộp thực phẩm</md:title>
+  <md:abstract>Trong sản xuất đồ hộp thực phẩm, thanh trùng là một quá trình quan trọng, có tác dụng quyết định tới khả năng bảo quản và chất lượng của thực phẩm. Đây là biện pháp cất giữ thực phẩm theo nguyên lý tiêu diệt mầm móng gây hư hỏng thực phẩm (nguyên tắc đình chỉ sự sống) bằng nhiều phương pháp khác nhau: dùng dòng điện cao tần, tia ion hóa, siêu âm, lọc thanh trùng và tác dụng của nhiệt độ.</md:abstract>
+  <md:uuid>11776b06-b3d2-4ee2-bd32-fe7d425be583</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-704710935245">
+      <title>CÁC HỆ VI SINH VẬT TRONG ĐỒ HỘP</title>
+      <para id="id5050991"/>
+      <para id="id5050995">Các hệ vi sinh vật tồn tại trong đồ hộp nguy hiểm nhất là các loại vi khuẩn, sau đó mới đến nấm men và nấm mốc.</para>
+      <para id="id5051008"/>
+      <section id="id-678778392598">
+        <title>Vi khuẩn</title>
+        <para id="id5051021">Các loại vi khuẩn phổ biến nhất thường thấy trong đồ hộp.</para>
+        <para id="id5051032">a. Loại hiếu khí</para>
+        <para id="id5051037">+ Bacillus mesentericus : có nha bào, không độc, ở trong nước và trên bề mặt rau. Nha bào bị phá hủy ở 1100C trong 1 giờ. Loại này có trong tất cả các loại đồ hộp, phát triển nhanh ở nhiệt độ quanh 370C.</para>
+        <para id="id5051079">+ Bacillus subtilis : có nha bào không gây bệnh. Nha bào chịu 1000C trong 1 giờ, 1150C trong 6 phút. Loại này có trong đồ hộp cá, rau, thịt. Không gây mùi vị lạ, phát triển rất mạnh ở 25 - 350C.</para>
+        <para id="id5051136">b. Loại kỵ khí </para>
+        <para id="id5051149">+ Clostridium sporogenes: cố định ở trạng thái tự nhiên của mọi môi trường. Nó phân hủy protid thành muối của NH3, rồi thải NH3,, sản sinh ra H2S, H2 và CO2. Nha bào của nó chịu đựng được trong nước sôi trên 1 giờ. Clostridium sporogenes có độc tố, song bị phá hủy nếu đun sôi lâu. Loại này có trong mọi đồ hộp, phát triển rất mạnh ở 27 - 580C. Nhiệt độ tối thích là 370C.</para>
+        <para id="id5051250">+ Clostridium putrificum: là loại vi khuẩn đường ruột, có nha bào, không gây bệnh. Các loại nguyên liệu thực vật đề kháng mạnh với Clostridium putrificum vì có phitonxit. Loại này có trong mọi đồ hộp, nhiệt độ tối thích là 370C.</para>
+        <para id="id5051296"/>
+        <para id="id5051311">c. Loại vừa hiếu khí vừa kỵ khí </para>
+        <para id="id5051317">+ Bacillus thermophillus: có trong đất, phân gia súc, không gây bệnh, có nha bào. Tuy có rất ít trong đồ hộp nhưng khó loại trừ. Nhiệt độ tối thích là 60 - 70oC.</para>
+        <para id="id5051344">+ Staphylococcus pyrogenes aureus : có trong bụi và nước, không có nha bào. Thỉnh thoảng gây bệnh vì sinh ra độc tố, dễ bị phá hủy ở 60 - 70oC. Phát triển nhanh ở nhiệt độ thường.</para>
+        <para id="id5051371">d. Loại gây bệnh, gây ra ngộ độc do nội độc tố </para>
+        <para id="id5051380">+ Bacillus botulinus : còn có tên là Clostridium botulinum. Triệu chứng gây bại liệt rất đặc trưng : làm đục sự điều tiết của mắt, rồi làm liệt các cơ điều khiển bởi thần kinh sọ, sau đó toàn thân bị liệt. Người bị ngộ độc sau 4 - 8 ngày thì chết. Loại này chỉ bị nhiễm khi không tuân theo nguyên tắc vệ sinh và thanh trùng tối thiểu.</para>
+        <para id="id5051413">Nha bào có khả năng đề kháng mạnh: ở 100oC là 330 phút, 115oC là 10 phút, 120oC là 4 phút. Độc tố bị phá hủy hoàn toàn khi đun nóng 80oC trong 30 phút.</para>
+        <para id="id5051461">+ Salmonella: thuộc nhóm vi khuẩn gây bệnh, hiếu khí, ưa ẩm, không có nha bào nhưng có độc tố.</para>
+        <para id="id5051481">2. Nấm men, nấm mốc </para>
+        <para id="id5051487">+ Nấm men: chủ yếu là Saccharomyces ellipsoides, hiện diện rộng khắp trong thiên nhiên. Nấm men thường thấy trong đồ hộp có chứa đường. Bào tử của nấm men không có khả năng chịu đựng được nhiệt độ cao, chúng có thể chết nhanh ở nhiệt độ 60oC.</para>
+        <para id="id5051525">+ Nấm mốc : ít thấy trong đồ hộp.</para>
+        <para id="id5051534">Nói chung men, mốc dễ bị tiêu diệt ở nhiệt độ thấp và dễ loại trừ bằng cách thực hiện vệ sinh công nghiệp tốt.</para>
+      </section>
+    </section>
+    <section id="id-78569926625">
+      <title>PHƯƠNG PHÁP THANH TRÙNG VẬT LÝ</title>
+      <section id="id-0599374369634">
+        <title>Thanh trùng bằng tia ion hóa</title>
+        <section id="id-528868055534">
+          <title>Nguyên lý</title>
+          <para id="id5051582">Tác dụng diệt trùng của các tia ion hóa là thay đổi cấu trúc của một số phân tử protein của tế bào vi sinh vật và làm ion hóa dung môi.</para>
+          <para id="id5051599">Hiệu quả thanh trùng của tia ion hóa phụ thuộc vào thời gian xử lý, chiều dày của thực phẩm và lượng vi sinh vật nhiễm vào thực phẩm.</para>
+        </section>
+        <section id="id-581585546408">
+          <title>Các tia ion hóa</title>
+          <para id="id5051621">Căn cứ vào tần số dao động điện từ, người ta chia tia sáng làm các loại :</para>
+          <para id="id5051636"/>
+        </section>
+      </section>
+    </section>
+    <section id="id-963932982352">
+      <title>Bảng 4.1. Tần số dao động điện từ của các tia ion hóa</title>
+      <table id="id5051661" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Tia</entry>
+              <entry>Tần số dao động điện từ (Hz)</entry>
+            </row>
+            <row>
+              <entry>Tia hồng ngoạiTia sáng trông thấyTia tử ngoạiTia XTia Rongel cứng, tia </entry>
+              <entry>1012 - 101410151016 - 1017 1018 - 10201021 - 1022</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5051839">(Nguyễn Vân Tiếp. 2000)</para>
+      <para id="id5051845">Các tia có tần số dao động cao thì có lực đâm xuyên cao. Tia X, tia  là các tia ion hóa đều có tác dụng diệt trùng. Liều lượng sử dụng tùy thuộc vào bản chất từng loại vi sinh vật.</para>
+      <para id="id5051868">Chiều dày tối đa của thực phẩm đem chiếu tia X và tia âm cực là 127mm (nếu chiếu cả 2 mặt).</para>
+      <para id="id5051881">Tia hồng ngoại và tia tử ngoại là các tia bức xạ. Tác dụng của tia hồng ngoại là làm nóng sản phẩm để diệt vi sinh vật. Tia tử ngoại có tác dụng sát trùng là làm đông tụ protid và phá hủy hệ thống men của vi sinh vật.</para>
+      <section id="id-202457482884">
+        <title>Thanh trùng bằng sóng siêu âm</title>
+        <para id="id5051907">Dưới tác dụng của siêu âm, môi trường lỏng truyền âm bị xô đẩy, bị ép và tạo chân không liên tiếp, sinh ra nhiều khoảng trống. Lúc đó, các chất hòa tan và hơi của chất lỏng lập tức dồn vào khoảng trống ấy, gây ra tác dụng cơ học làm chết vi sinh vật ở trong môi trường. Mặt khác trong quá trình ấy, một phần chất khí hòa tan bị ion hóa tạo ra nước oxy già (H2O2), Nitrogen oxy (NO) là những chất độc đối với vi sinh vật.</para>
+        <para id="id5051943">Trong các loại vi sinh vật thì vi khuẩn dễ bị siêu âm tác dụng nhất.</para>
+      </section>
+      <section id="id-326893798709">
+        <title>Thanh trùng bằng dòng điện cao tần</title>
+        <para id="id5051963">Thanh trùng bằng cách đặt sản phẩm trong điện trường của dòng điện xoay chiều (có tần số cao) Các phần tử tích điện trong sản phẩm (ion, điện tử) sẽ dao động do tác dụng của điện năng, chuyển điện năng được hấp thu thành nhiệt năng để làm chết vi sinh vật. Khả năng hấp thu điện năng tùy thuộc vào: </para>
+        <list id="id5051981" list-type="bulleted">
+          <item>kích thước bao bì đựng thực phẩm, </item>
+          <item>điện áp </item>
+          <item>tần số của dòng điện. </item>
+        </list>
+        <para id="id5052013">Tần số của dòng điện càng lớn hay bước sóng càng ngắn thì quá trình thanh trùng càng nhanh (Tần số thích hợp nhất là 3.108 - 3.107 Hz). Thời gian thanh trùng chỉ trong vài mươi giây đến vài phút. </para>
+      </section>
+      <section id="id-159612871944">
+        <title>Thanh trùng bằng sử dụng áp suất cao</title>
+        <para id="id5052054">Áp lực 300 - 600MPa có khả năng vô họat các vi sinh vật không hình thành bào tử. Trong khi để vô họat các vi khuẩn sinh bào tử cần áp lực rất cao (1800MPa) Tuy nhiên, tại áp suất thấp 200 - 400MPa cũng làm giảm sự sản sinh bào tử. </para>
+      </section>
+      <section id="id-117527663483">
+        <title>Thanh trùng bằng xung điện từ</title>
+        <para id="id5052080">Trường xung điện (áp dụng cho các lọai thực phẩm lỏng, thời gian xử lý từ vài micro tới mili giây) có thể tiêu diệt vi sinh vật vì tạo xốp màng tế bào. Lực điện trường đòi hỏi để vô họat vi sinh vật thay đổi từ 0,1 - 2,5 V/m.</para>
+      </section>
+      <section id="id-201744170763">
+        <title>Lọc Thanh trùng</title>
+        <para id="id5052117">Sản phẩm lỏng, như nước quả trong có thể loại trừ vi sinh vật bằng cách lọc. Bản lọc, thường là các màng sứ xốp, có những lỗ đủ nhỏ chỉ cho sản phẩm qua, còn giữ lại vi sinh vật. Sau khi lọc, sản phẩm được rót vào bao bì đã sát trùng, rồi ghép kín ngay. Quá trình này phải tiến hành trong điều kiện vệ sinh cao. Bằng phương pháp này, sản phẩm hoàn toàn giữ được tính chất tự nhiên.</para>
+      </section>
+    </section>
+    <section id="id-9728416042">
+      <title>THANH TRÙNG BẰNG TÁC DỤNG CỦA NHIỆT ĐỘ</title>
+      <para id="id5052154">Thanh trùng bằng nhiệt độ cao của nước nóng và hơi nước nóng là phương pháp thanh trùng phổ biến nhất trong sản xuất đồ hộp.</para>
+      <para id="id5052171">Khi nâng nhiệt độ của môi trường quá nhiệt độ tối thích của vi sinh vật thì hoạt động của vi sinh vật bị chậm lại. Ở nhiệt độ cao, protid của chất nguyên sinh của vi sinh vật bị đông tụ làm cho vi sinh vật bị chết. Quá trình đông tụ protid này không thuận nghịch, nên hoạt động của vi sinh vật không phục hồi sau khi hạ nhiệt.</para>
+      <section id="id-309477468423">
+        <title>Động học của quá trình tiêu diệt vi sinh vật bằng nhiệt</title>
+        <para id="id5052201">Từ thực nghiệm đã chỉ sự tiêu diệt vi sinh vật được thể hiện bởi phương trình:</para>
+        <para id="id5052213">(1)- 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dN</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dt</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext>.</m:mtext><m:msup><m:mi>N</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "dN"}  over  { ital "dt"} } =k rSub { size 8{T} }  "." N rSup { size 8{n} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5052353"/>
+        <para id="id5052358">Trong đó :</para>
+        <para id="id5052367">N : lượng vi sinh vật trong sản phẩm sau thời gian t (cfu/ml).</para>
+        <para id="id5052379">kT: hệ số vận tốc tiêu diệt vi sinh vật ở nhiệt T, tùy theo loại vi sinh vật và tính chất của đồ hộp mà trị số k thay đổi.</para>
+        <para id="id5052394">t : Thời gian xử lý (phút)</para>
+        <para id="id5052401">n : Bậc phản ứng</para>
+        <para id="id5052407"/>
+        <para id="id5052411">Trong hầu hết trường hợp, bậc phản ứng bằng 1, tiến trình vô hoạt bậc nhất có thể viết như sau:</para>
+        <para id="id5052424">(2)- 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dN</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dt</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext>.</m:mtext><m:mi>N</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "dN"}  over  { ital "dt"} } =k rSub { size 8{T} }  "." N} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5052547">Hay</para>
+        <para id="id5052553">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>dN</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mi>N</m:mi>
+                        </m:mfrac>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:msub>
+                            <m:mi>k</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>T</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>dt</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "dN"}  over  {N} } = - k rSub { size 8{T} }  "."  ital "dt"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5052662">(3)</para>
+        <para id="id5052688">Với phương trình vi phân (3) có thể được lấy tích phân theo các điều kiện</para>
+        <para id="id5052698">ở thời điểm ban đầu t = 0 thì N = No</para>
+        <para id="id5052712">ở thời điểm t = t thì N = N</para>
+        <para id="id5052724">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:munderover>
+                          <m:mo stretchy="false">∫</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>N</m:mi>
+                                <m:mstyle fontsize="6pt">
+                                  <m:mrow>
+                                    <m:mn>0</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mi>N</m:mi>
+                        </m:munderover>
+                        <m:mfrac>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>dN</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mi>N</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow/>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mrow>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mrow>
+                                <m:munderover>
+                                  <m:mo stretchy="false">∫</m:mo>
+                                  <m:mn>0</m:mn>
+                                  <m:mi>t</m:mi>
+                                </m:munderover>
+                                <m:mrow>
+                                  <m:msub>
+                                    <m:mi>k</m:mi>
+                                    <m:mi>T</m:mi>
+                                  </m:msub>
+                                  <m:mstyle fontsize="12pt">
+                                    <m:mrow>
+                                      <m:mrow>
+                                        <m:mtext>.</m:mtext>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>dt</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mrow>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ Int cSub { size 8{N rSub { size 6{0} } } }  cSup {N}  { {  { ital "dN"}  over  {N} } }  size 12{ {}= -  Int cSub {0}  cSup {t}  {k rSub {T}  size 12{ "."  ital "dt"}} }} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5052881">(4)</para>
+        <para id="id5052908">Khi thực hiện tiêu diệt vi sinh vật ở nhiệt độ không đổi, kT = hằng số (quá trình đẳng nhiệt)</para>
+        <para id="id5052928">Phương trình (4) có thể viết như sau:</para>
+        <para id="id5052937">(5)
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∫</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:msub><m:mi>N</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mi>N</m:mi></m:munderover><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dN</m:mtext></m:mrow></m:mstyle><m:mi>N</m:mi></m:mfrac></m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow/><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:msub><m:mi>k</m:mi><m:mi>T</m:mi></m:msub></m:mrow></m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∫</m:mo><m:mn>0</m:mn><m:mi>t</m:mi></m:munderover><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dt</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ Int cSub { size 8{N rSub { size 6{0} } } }  cSup {N}  { {  { ital "dN"}  over  {N} } }  size 12{ {}= - k rSub {T}  Int cSub {0}  cSup {t}  { size 12{ ital "dt"} } }} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5053110">ln (N) – ln (No) = - kT. t(6)</para>
+        <para id="id5053147">ln 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfenced open="" close=""><m:mfrac><m:mi>N</m:mi><m:msub><m:mi>N</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mfenced><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mi>t</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {N}  over  {N rSub { size 8{0} } } }  right )= - k rSub { size 8{T} }  "." t} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5053264">(7)</para>
+        <para id="id5053290">Hoặc</para>
+        <para id="id5053294">(8)Từ đó ta có được :</para>
+        <para id="id5053326">N = No e -kt </para>
+        <para id="id5053355">Trong đóN : lượng vi sinh vật trong sản phẩm ở thời điểm t (cfu/ml)</para>
+        <para id="id5053369">No: lượng vi sinh vật ban đầu (cfu/ml)</para>
+        <para id="id5053389">kT : hệ số vận tốc tiêu diệt vi sinh vật ở nhiệt độ T</para>
+        <para id="id5053401">t : Thời gian gia nhiệt (phút)</para>
+        <para id="id5053410">Ở nhiệt độ tiêu diệt vi sinh vật không đổi, lượng vi sinh vật giảm theo hàm số mũ theo thời gian. Điều này có nghĩa tổng số vi sinh vật không thể giảm đến 0. Vì vậy, không thể đảm bảo tuyệt đối rằng tất cả vi sinh vật sẽ bị tiêu diệt bởi một quá trình nào đó.</para>
+        <para id="id5053430">Nếu vẽ đường biểu diễn về mức độ tiêu diệt vi sinh vật theo thời gian bởi phương trình (8) ta có đồ thị theo hình 4.1 </para>
+        <para id="id5053444"><figure id="id5053447"><media id="id6395521" alt=""><image src="../../media/graphics1-da7c.jpg" mime-type="image/jpeg" height="310" width="440"/></media></figure>Hình 4.1. Sự tiêu diệt vi sinh vật bằng nhiệt theo thời gian</para>
+        <para id="id5053496"/>
+        <para id="id5053501">Cũng có thể viết :</para>
+        <para id="id5053506">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>lg</m:mtext>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mi>N</m:mi>
+                          <m:msub>
+                            <m:mi>N</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>0</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mfrac>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mfrac>
+                            <m:mi>k</m:mi>
+                            <m:mrow>
+                              <m:mn>2,</m:mn>
+                              <m:mtext>303</m:mtext>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"lg" {  {N}  over  {N rSub { size 8{0} } } } = -  {  {k}  over  {2,"303"} } t} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5053610">(9)</para>
+        <para id="id5053636">Nếu biểu diễn theo hàm logarite thập phân phương trình (9) đồ thị là một </para>
+        <para id="id5053648">- 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>k</m:mi><m:mrow><m:mn>2,</m:mn><m:mtext>303</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {k}  over  {2,"303"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5053723">đường thẳng, có hệ số góc biểu thị qua hình 4.2</para>
+        <para id="id5053735">Đường lý thuyếtĐường thực nghiệm<figure id="id5053791"><media id="id8384231" alt=""><image src="../../media/graphics2.jpg" mime-type="image/jpeg" height="260" width="450"/></media></figure></para>
+        <para id="id5053821">Hình 4.2. Thời gian tiêu diệt vi sinh vật theo mối quan hệ logarite</para>
+        <para id="id5053836"/>
+        <para id="id5053840">Với giá trị D là thời gian cần thiết tại một nhiệt độ xác định để tiêu diệt 90% lượng vi sinh vật ban đầu. Được gọi là “thời gian tiêu diệt thập phân”.</para>
+        <para id="id5053854">Theo hình 4.2 và phương trình (9), ta xây dựng được mối quan hệ giữa hệ số vận tốc k và thời gian D :</para>
+        <para id="id5053867"/>
+        <para id="id5053872">- 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>D</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mi>k</m:mi><m:mrow><m:mn>2,</m:mn><m:mtext>303</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {D} } = -  {  {k}  over  {2,"303"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5053965"/>
+        <para id="id5053969"/>
+        <para id="id5053973">Phương trình (9) có thể viết :</para>
+        <para id="id5053982">(10)
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>lg</m:mtext><m:mrow><m:mfrac><m:mi>N</m:mi><m:msub><m:mi>N</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>D</m:mi></m:mfrac></m:mrow></m:mrow><m:mi>t</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"lg" {  {N}  over  {N rSub { size 8{0} } } } = -  {  {1}  over  {D} } t} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5054111"/>
+        <para id="id5054116">Vậy thời gian tiêu diệt vi sinh vật </para>
+        <para id="id5054122">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>t</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mi>D</m:mi>
+                      </m:mrow>
+                      <m:mtext>lg</m:mtext>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>N</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mi>N</m:mi>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{t=D"lg" {  {N rSub { size 8{0} } }  over  {N} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5054213">(11)</para>
+      </section>
+      <section id="id-997936069077">
+        <title>Tính toán ảnh hưởng của quá trình xử lý nhiệt (Giá trị thanh trùng F)</title>
+        <para id="id5054255">Để xác định mức độ tiêu diệt vi sinh vật, cần phải biết trị số D và z biểu thị cho loài vi sinh vật cần tiêu diệt.</para>
+        <para id="id5054266">(Đường hiệu chỉnh)(Đường thực nghiệm)<figure id="id5054323"><media id="id8258790" alt=""><image src="../../media/graphics3-74b2.jpg" mime-type="image/jpeg" height="280" width="488"/></media></figure>Thời gian tiệt trùngNhư ta đã biết đường “thời gian chết nhiệt” của vi sinh vật trong quá trình xử lý nhiệt là một đường thẳng, ta vẽ đồ thị biểu diễn (hình 4.3)</para>
+        <para id="id5026126"/>
+        <para id="id5026131">Hình 4.3. Biểu diễn “thời gian chết nhiệt” của vi sinh vật</para>
+        <para id="id5026149">- F : thời gian cần thiết (tính bằng phút) để tiêu diệt vi sinh vật, tại một nhiệt độ nhất định. </para>
+        <para id="id5026162">- z : khoảng nhiệt độ cần thiết cho đường “thời gian chết nhiệt” thực hiện một chu trình logarite (Đối với mỗi loại vi sinh vật và thực phẩm khác nhau, có giá trị D và z khác nhau)</para>
+      </section>
+    </section>
+    <section id="id-0955958658457">
+      <title>Bảng 4.2. Sự kháng nhiệt của vi sinh vật trong quá trình xử lý nhiệt</title>
+      <table id="id5026190" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Nhóm vi khuẩn</entry>
+              <entry>D (phút)</entry>
+              <entry>z (OC)</entry>
+            </row>
+            <row>
+              <entry>Sản phẩm không chua và ít chua(pH &gt; 4,5)- Vi khuẩn chịu nhiệt (bào tử) - Vi khuẩn không chịu nhiệt (bào tử)</entry>
+              <entry>2,0 - 5,0 (1)0,1 - 1,5 (1)</entry>
+              <entry>8 - 128 - 10</entry>
+            </row>
+            <row>
+              <entry>Sản phẩm chua (pH 4,0 - 4,5)- Vi khuẩn chịu nhiệt (bào tử)- Vi khuẩn không chịu nhiệt (bào tử)</entry>
+              <entry>0,01 - 0,07 (1)0,1 - 0,5 (2)</entry>
+              <entry>8 - 107 - 10</entry>
+            </row>
+            <row>
+              <entry>Sản phẩm rất chua (pH &lt; 4,0)Vi sinh vật không chịu nhiệt (vi khuẩn không sinh bào tử, nấm men, nấm mốc)</entry>
+              <entry>0,5 - 1,0 (3)</entry>
+              <entry>5 - 7</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5026433">(Carla,1992)</para>
+      <para id="id5026441">Ghi chú (1): xử lý ở 121,1OC</para>
+      <para id="id5026462"> (2): xử lý ở 100OC</para>
+      <para id="id5026484"> (3): xử lý ở 65OC</para>
+      <para id="id5026507">Bảng 4.3. Sự vô hoạt vi sinh vật (bào tử) trong quá trình tiệt tùng</para>
+      <section id="id-169946067495">
+        <title>LOÀI VI SINH VẬT(Type of microorganism)MÔI TRƯỜNG(Medium)z-value (oC)D121,1 (min)Bacillus stearothermophilusGeneral7,6-10,31,8-4,7Bacillus subtilis 5230General7,4-130,3-0,76Bacillus coagulanssolution8,2-9,00,2-2,5Bacillus cereusGeneral9,70,0065Bacillus megateriumGeneral8,80,04Clostridium perfringensGeneral10,0/Clostridium sporogenesGeneral8,0-12,00,48-1,4Clostridium botulinumGeneral9,90,21(Carla.1992)</title>
+        <para id="id5027040">Bảng 4.4. Sự vô hoạt vi sinh vật (Tế bào sinh dưỡng) trong quá trình thanh trùng</para>
+      </section>
+      <section id="id-658083087998">
+        <title>LOÀI VI SINH VẬT(Type of microorganism)MÔI TRƯỜNG(Medium)z-value (oC)DT (min)Escherichia coli/4,94,5 (56oC)Pseudomonas fluoresens/7,53,2 (60oC)Streptococcus faecalisFish6,715,7 (60oC)Staphylococcus aureusPea soup4,610,4 (60oC)Salmonella senftenbergPea soup5,710,6 (60oC)Lactobacillus plantarumTomato soup12,511,0 (70oC)Listeria monocytogenesCarrots6,70,27 (70oC)Closstridium botulinumNon-proteolytic type BNon-proteolytic type EBuffer pH 7,0Water9,79,432,3 (82oC)3,3 (80oC)Bacillus cereusBuffer pH 7,010,58,0 (100oC)Bacillus subtilisBuffer pH 6,89,80,57 (121oC)(Carla.1992)</title>
+        <para id="id5027052">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-116183122068">
+        <title>Bảng 4.5. Sự kháng nhiệt của các enzyme trong quá trình xử lý nhiệt</title>
+        <table id="id5027813" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Enzyme</entry>
+                <entry>D (phút)</entry>
+                <entry>z (OC)</entry>
+              </row>
+              <row>
+                <entry>PeroxydasePolygalacturonaseO-diphenoloxydaseLipoxygenaseCatalaseLipaseProtease</entry>
+                <entry>232 (1)20 (1)0,82 (1)0,09 (1)0,02 (1)25 (2)300 (2)</entry>
+                <entry>286,85,58,58,32628</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5028005">(Carla.1992)</para>
+        <para id="id5028010">Ghi chú (1): xử lý ở 80OC</para>
+        <para id="id5028031"> (2): xử lý ở 120OC</para>
+        <para id="id5028054"/>
+        <para id="id5028058"/>
+        <para id="id5028062">Bảng 4.6. Giá trị Z đối với sự vô hoạt enzyme và các nhân tố chất lượng của một số thực phẩm</para>
+        <table id="id5028074" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>ENZYME</entry>
+                <entry>GÍA TRỊ Z (oC)</entry>
+              </row>
+              <row>
+                <entry>Lipoxygenase (peas)</entry>
+                <entry>8,7</entry>
+              </row>
+              <row>
+                <entry>Lipoxygenase (soybean)</entry>
+                <entry>6,9</entry>
+              </row>
+              <row>
+                <entry>Polyphenoloxidase (mushroom)</entry>
+                <entry>6,5</entry>
+              </row>
+              <row>
+                <entry>Polyphenoloxidase (plum)</entry>
+                <entry>17,6</entry>
+              </row>
+              <row>
+                <entry>Chlorophyllase (spinach)</entry>
+                <entry>12,2</entry>
+              </row>
+              <row>
+                <entry>Peroxidase (potato)</entry>
+                <entry>35,0</entry>
+              </row>
+              <row>
+                <entry>NHÂN TỐ CHẤT LƯỢNG</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Thiamine (milk)</entry>
+                <entry>29,4 – 31,4</entry>
+              </row>
+              <row>
+                <entry>Thiamine (meat, vegetables)</entry>
+                <entry>25,0 – 31,3</entry>
+              </row>
+              <row>
+                <entry>Chất lượng chung (peas)</entry>
+                <entry>28,3</entry>
+              </row>
+              <row>
+                <entry>Chất lượng chung (green beans)</entry>
+                <entry>28,8</entry>
+              </row>
+              <row>
+                <entry>Chất lượng chung (bắp)</entry>
+                <entry>31,6</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5028447">(Carla.1992)</para>
+        <para id="id5028452">Bảng 4.7. Gía trị Z của các nhân tố thực phẩm (tổng quát)</para>
+        <table id="id5028459" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>NHÂN TỐ </entry>
+                <entry>GÍA TRỊ Z (oC)</entry>
+              </row>
+              <row>
+                <entry>Bào tử vi khuẩn</entry>
+                <entry>7 –12</entry>
+              </row>
+              <row>
+                <entry>Tế bào sinh dưỡng</entry>
+                <entry>4 – 8</entry>
+              </row>
+              <row>
+                <entry>Vitamins</entry>
+                <entry>25 – 30</entry>
+              </row>
+              <row>
+                <entry>Proteins</entry>
+                <entry>15 – 37</entry>
+              </row>
+              <row>
+                <entry>Enzymes</entry>
+                <entry>5 – 50</entry>
+              </row>
+              <row>
+                <entry>Chất lượng cảm quan chung</entry>
+                <entry>25 – 45</entry>
+              </row>
+              <row>
+                <entry>Cấu trúc</entry>
+                <entry>17 – 47</entry>
+              </row>
+              <row>
+                <entry>Màu sắc</entry>
+                <entry>17 - 57</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5028703">(Carla.1992)</para>
+        <para id="id5028707">Theo hình 4.3, ta có thể viết:</para>
+        <para id="id5028713">độ dốc của đường thẳng
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>lg</m:mtext><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>lg</m:mtext></m:mrow><m:mi>F</m:mi></m:mrow><m:mrow><m:mtext>121</m:mtext><m:mi>,</m:mi><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mi>T</m:mi></m:mrow></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>Z</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"lg"t - "lg"F}  over  {"121",1 - T} } = {  {1}  over  {Z} } ={}} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5028850">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>lg</m:mtext>
+                      <m:mrow>
+                        <m:mi>t</m:mi>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mtext>lg</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>F</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mtext>121</m:mtext>
+                            <m:mi>,</m:mi>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mi>T</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                          <m:mi>Z</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"lg"t - "lg"F= {  {"121",1 - T}  over  {Z} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5028956">Hay có thể viết lại</para>
+        <para id="id5028962">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>lg</m:mtext>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mi>F</m:mi>
+                          <m:mi>t</m:mi>
+                        </m:mfrac>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>T</m:mi>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mtext>121</m:mtext>
+                            </m:mrow>
+                            <m:mi>,</m:mi>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                          <m:mi>Z</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"lg" {  {F}  over  {t} } = {  {T - "121",1}  over  {Z} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5029060">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>F</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:msup>
+                        <m:mtext>10</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mi>T</m:mi>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mtext>121</m:mtext>
+                                </m:mrow>
+                                <m:mi>,</m:mi>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                              <m:mi>z</m:mi>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{F=t "." "10" rSup { size 8{ {  {T - "121",1}  over  {z} } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5029164"> </para>
+        <para id="id5029183">Một cách tổng quát, gía trị F được biểu thị :</para>
+        <para id="id5029194">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msubsup>
+                          <m:mi>F</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>Tref</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>z</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msubsup>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:msup>
+                        <m:mtext>10</m:mtext>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mi>T</m:mi>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>Tref</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                              <m:mi>z</m:mi>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{ ital "Tref"} }  rSup { size 8{z} } =t "." "10" rSup { size 8{ {  {T -  ital "Tref"}  over  {z} } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5029316">Tref : nhiệt độ “tham chiếu” tương ứng với quá trình xử lý nhiệt (ví dụ đối với quá trình tiệt trùng thì nhiệt độ đó là 121,1oC, đối với quá trình thanh trùng thì nhiệt độ đó là 100oC...)</para>
+        <para id="id5029359">T : Nhiệt độ xử lý nhiệt (oC)</para>
+        <para id="id5029378">z : tùy thuộc vào loại vi sinh vật cần tiêu diệt và tính chất của sản phẩm. Nói chung, người ta chọn loài sinh bào tử Clostridium botulinum là mục tiêu của quá trình thanh trùng và đại diện cho loài chịu nhiệt, có z = 10oC </para>
+        <para id="id5029420"/>
+        <para id="id5029425"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msubsup><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Tref</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>z</m:mi></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">=</m:mo><m:mrow><m:munderover><m:mo stretchy="false">∫</m:mo><m:mi>ο</m:mi><m:mo stretchy="false">∞</m:mo></m:munderover><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mfrac><m:mrow><m:mi>T</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">−</m:mo><m:msub><m:mi>T</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ref</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow><m:mi>z</m:mi></m:mfrac></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>.</m:mtext><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dt</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{ ital "Tref"} }  rSup { size 8{z} } = Int cSub {ο}  cSup { infinity }  {"10" rSup { size 8{ {  {T \( t \)  - T rSub { size 6{ ital "ref"} } }  over  {z} } } } }  size 12{ "."  ital "dt"}} {}</m:annotation></m:semantics></m:math>Trong trường hợp nhiệt độ thay đổi theo thời gian, người ta ghi nhận T(t), khi đó giá trị F được tính như sau :</para>
+        <para id="id5012845"/>
+        <para id="id5012850"/>
+        <para id="id5012854">Nó có ý nghĩa là tính trên tổng thời gian ảnh hưởng tức thời, mà đã được biểu thị bởi gía trị 10 (T - Tref)/z được gọi là yếu tố Bigelow.</para>
+        <para id="id5012880">Công thức Bigelow cho ta tính được sự phá hủy các bào tử bởi nhiệt trong trường hợp xử lý ở nhiệt độ không cố định.</para>
+      </section>
+      <section id="id-247902650145">
+        <title>Mục tiêu của quá trình tiệt trùng</title>
+        <para id="id5012903">Bào tử yếm khí Clostridium botulinum là mục tiêu chính trong quá trình chế biến nhiệt vì :</para>
+        <para id="id5012923">- Có thể sản sinh ra độc tố làm chết người dù ở liều lượng rất thấp.</para>
+        <para id="id5012935">- Có khả năng thành lập bào tử, rất bền nhiệt</para>
+        <para id="id5012945">- Clostridium botulinum có thể tìm thấy bất cứ nơi đâu, vì vậy hầu hết nguyên liệu đều nhiễm vi sinh vật này, nên chúng quan hệ mật thiết tới lĩnh vực an toàn thực phẩm</para>
+        <para id="id5012969">Chính vì những lý do trên, Clostridium botulinum được xem là nguyên nhân gây ngộ độc thực phẩm.</para>
+        <para id="id5012990">Để tránh sự "bùng nổ" về ngộ độc, các nhà chế biến thực phẩm cần :</para>
+        <para id="id5013000">- Giảm mật số bào tử Clostridium botulinum đến mức có thể chấp nhận được trong thực phẩm</para>
+        <para id="id5013020">- Ngăn cản sự phát triển của Clostridium botulinum (bào tử) và quá trình sản sinh độc tố</para>
+        <para id="id5013041"/>
+        <para id="id5013045">Trong thực tế rất khó vô hoạt bào tử Clostridium botulinum, vì vậy để tránh hư hỏng đòi hỏi phải xử lý ở nhiệt độ cao, đây là nguyên nhân dẫn đến việc giảm tính chất dinh dưỡng, cảm quan của các thực phẩm, không đáp ứng được đòi hỏi của người tiêu dùng.</para>
+        <para id="id5013072">Chính vì thế, việc ngăn cản hư hỏng thực phẩm thường là hạn chế sự phát triển nhanh của bào tử Clostridium botulinum hơn là vô hoạt. Việc xử lý nhiệt thành công để phá hủy bào tử Clostridium botulinum là kết hợp với nhiều yếu tố (yếu tố bên trong và bên ngoài) như pH, nhiệt độ, oxy, độ hoạt động của nước, phụ gia bảo quản hoặc kết hợp với nhóm vi sinh vật cạnh tranh</para>
+        <para id="id5013112">Bảng 4.8. Các nội và ngoại tác nhân góp phần ngăn chặn sự phát triển của clostridium botulinum</para>
+        <table id="id5013127" summary="">
+          <tgroup cols="1">
+            <colspec colnum="1" colname="c1"/>
+            <tbody>
+              <row>
+                <entry>Yếu tố bên trong- aw : 0,93 (theo FDA, aw &lt; 0,85)- pH &lt; 4,6- Phụ gia : Nitrit : 0,1 – 0,2g/kg, Muối : &lt; 100g/kg</entry>
+              </row>
+              <row>
+                <entry>Yếu tố bên ngoài- Nhiệt độ bảo quảnT &lt; 10oC : Clostridium botulinum dạng A, B; enzyme phân giải proteinT &lt; 3,3oC : Clostridium botulinum dạng B, E, F; không phân giải protein</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5013299">(Carla.1992)</para>
+        <para id="id5013304">Thông thường bào tử Clostridium botulinum không hình thành và phát triển trong thực phẩm có pH &lt; 4,6. Vì vậy, pH : 4,6 được chọn là ranh giới phân chia giữa thực phẩm acid và ít acid.</para>
+        <para id="id5013330">- Trong thực phẩm acid (pH &lt; 4,6) bào tử Clostridium botulinum có thể hiện diện, không có dấu hiệu liên quan đến sự phát triển nhanh, có thể áp dụng xử lý nhiệt trung bình để phá hủy chúng (thanh trùng)</para>
+        <para id="id5013354">- Trong thực phẩm ít acid (pH &gt; 4,6) xử lý nhiệt ở mức độ tương đối có thể sử dụng với mục đích tiêu diệt bào tử Clostridium botulinum, nhưng phải kết hợp với quá trình bảo quản mát. Trong trường hợp này, quá trình tiệt trùng thường được áp dụng hơn.</para>
+      </section>
+      <section id="id-279275092146">
+        <title>Xác định điểm kết thúc của quá trình tiệt trùng </title>
+        <para id="id5013393">Tri số giá trị tiệt trùng F cần được xác định cho mỗi loại hư hỏng do vi sinh vật. Một trị số của quá trình này được tính toán dựa vào z = 10oC và nhiệt độ qui ước là 121,1oC, được ký hiệu là F0. Nhiều năm trong thực tế đóng hộp cho phép kết luận đối với quá trình tiệt trùng nhiệt ẩm, trị số F10121,1 (Clostridium botulinum) tức là F0 = 3 phút, tại tâm của sản phẩm đóng hộp sẽ cho kết quả an toàn theo quan điểm an toàn về mặt sức khỏe. Những bào tử của vi sinh vật chịu nhiệt có thể còn sống đối với quá trinh nhiệt được thiết lập để giết bào tử Clostridium botulinum và có thể gây hư hỏng cho sản phẩm, nhưng không sinh ra độc tố trong khi bảo quản thực phẩm.</para>
+        <para id="id5013489">Vì vậy, việc thiết lập quá trình nhiệt tối thiểu là hướng đến việc tiêu diệt các bào tử của các giống Clostridium botulinum phân giải protein dựa vào những thông số z (khoảng nhiệt độ cần thiết để thực hiện 1 chu trình logarit tiêu diệt vi sinh vật) và nhiệt độ thực hiện quá trình tiêu diệt vi sinh vật. </para>
+        <para id="id5013519">Điểm kết thúc của quá trình thanh trùng thường được xác định theo “Xác suất của một vi sinh vật còn sống sót” (PNSU: Probability of a Non-Sterile Unit)</para>
+        <para id="id5013577">Trị số thực nghiệm của F10121,1 đối với :</para>
+        <para id="id5013598">1. Sức khỏe cộng đồng</para>
+        <para id="id5013608">Bào tử Clostridium botulinum </para>
+        <para id="id5013627">N0 = 103 D121,1 = 0,2 phút PNSU = 10-9 F0 = 3 phút</para>
+        <para id="id5013694">2. Ngăn ngừa hư hỏng</para>
+        <para id="id5013703">- Bào tử chịu nhiệt trung bình </para>
+        <para id="id5013712">N0 = 104 D121,1= 0,5 phút PNSU = 10-6 F0 = 5 phút</para>
+        <para id="id5013781"> D121,1= 0,7 phút F0 = 7 phút</para>
+        <para id="id5013824">- Bào tử chịu nhiệt</para>
+        <para id="id5013832">Phân bố ở nhiệt độ &lt; 30oC </para>
+        <para id="id5013851">N0 = 102 D121,1= 1,5 phút PNSU = 10-2 F0 = 6 phút</para>
+        <para id="id5013920">Phân bố ở nhiệt độ &gt; 30oC </para>
+        <para id="id5013938">N0 = 102 D121,1= 1,5 phút PNSU = 10-6 F0 = 12 phút</para>
+        <para id="id5014006"> D121,1= 2,5 phút  F0 = 20 phút</para>
+        <para id="id5014051"/>
+      </section>
+      <section id="id-999724872351">
+        <title>Chọn chế độ thanh trùng</title>
+        <para id="id5014069">Ta phải chọn được một chế độ thanh trùng hợp lý, có nghĩa là đảm bảo được yêu cầu tiêu diệt các vi sinh vật có hại trong đồ hộp đó, đồng thời các chất dinh dưỡng ít bị tổn thất nhất, phẩm chất sản phẩm tốt nhất.</para>
+        <para id="id5014087">a. Chọn nhiệt độ thanh trùng</para>
+        <para id="id5014096"> Tất cả các loại thực phẩm đem đóng hộp đều là môi trường sống của các loại vi sinh vật. Mặc dù có rất nhiều yếu tố ảnh hưởng đến khả năng hoạt động của vi sinh vật, trong đó độ acid ảnh hưởng rất lớn, nên độ acid là yếu tố quan trọng trong việc chọn nhiệt độ thanh trùng.</para>
+        <para id="id5014118">Người ta chia sản phẩm đồ hộp thành 2 nhóm theo độ acid hoạt động của sản phẩm, để làm cơ sở cho việc chọn nhiệt độ thanh trùng :</para>
+        <para id="id5014133">- Nhóm sản phẩm đồ hộp không chua và ít chua có pH  4,6</para>
+        <para id="id5014152">- Nhóm sản phẩm đồ hộp chua có pH  4,6</para>
+        <para id="id5014171">+ Đối với các loại đồ hộp thuộc nhóm không chua hay ít chua, tức là có môi trường pH  4,5 ( như đồ hộp thịt, cá, một số đồ hộp rau.): vi sinh vật phát triển mạnh trong môi trường này đều là các vi sinh vật chịu nhiệt. Trong đó loại nguy hiểm hơn cả, có hại đến sức khỏe người sử dụng là những bào tử của loại vi khuẩn Clostridium botulinum có khả năng phân giải protein, là loại vi sinh vật chịu nhiệt nguy hiểm nhất, được các nước trên thế giới coi là đối tượng chủ yếu phải loại trừ, và tiêu diệt nha bào của nó được coi là tiêu chuẩn thanh trùng tối thiểu. Mặc dù nó không phải là đại diện ưa nóng nhất của nhóm vi sinh vật lên men thối. Trong đồ hộp thịt, cá, ta còn có thể gặp các loại vi khuẩn yếm khí gây thối hỏng đồ hộp như Clostridium sporogenes bền với nhiệt hơn cả Clostridium botulinum.</para>
+        <para id="id5014239">Ngoài ra ở các loại đồ hộp có độ acid hoạt động không cao lắm, cũng thường có các loại vi khuẩn bền với nhiệt như Clostridium thermosaccharolyticum thuộc nhóm yếm khí ưa nhiệt, có tác dụng phân hủy glucid. Và loại hiếu khí ưa nhiệt như loại Bacillus stearothermophillus, là loại vi sinh vật làm hỏng đồ hộp.</para>
+        <para id="id5014275">Do đó đối với các loại đồ hộp có môi trường pH  4,6 cần phải có nhiệt độ thanh trùng cao mới tiêu diệt được các loại vi sinh vật ưa nhiệt gây hư hỏng đồ hộp. Nhiệt độ đó vào khoảng 105oC - 121oC, được gọi là quá trình tiệt trùng.</para>
+        <para id="id5014319">+ Đối với các loại đồ hộp thuộc nhóm chua, tức là có môi trường pH  4,6 (như đồ hộp quả, cà chua, rau muối chua): các vi khuẩn chịu nhiệt không những không phát triển được mà tính chịu nhiệt của chúng cũng giảm đi, nên nó dễ dàng bị tiêu diệt khi nâng cao nhiệt độ. Các loại nấm men, nấm mốc tuy có thể phát triển mạnh được trong môi trường acid, nhưng hầu hết là kém bền đối với nhiệt. Nên có thể thanh trùng các loại đồ hộp có độ acid cao ở nhiệt độ thấp hơn nhiệt dộ thanh trùng các loại đồ hộp ít chua. Nhiệt độ đó thường ở nhiệt độ 100oC hoặc thấp hơn, khoảng 80oC.</para>
+        <para id="id5014378">Khi xác định nhiệt độ thanh trùng, phải chú ý nhiệt độ đó phải là nhiệt độ của cả khối sản phẩm cần được thanh trùng, phải là nhiệt độ ở vị trí trung tâm của hộp (đối với đồ hộp sản phẩm đặc thì vị trí trung tâm là ở giữa hộp, đối với đồ hộp sản phẩm lỏng thì vị trí trung tâm nằm ở 2/3 của hộp). Trong thực tế, nhiệt độ ở vị trí này gần bằng nhiệt độ ở thiết bị thanh trùng đối với đồ hộp lỏng, hoặc thấp hơn nhiệt độ ở thiết bị thanh trùng 0,5 - 1,5oC đối với đồ hộp đặc.</para>
+        <para id="id5014418">b. Chọn thời gian thanh trùng</para>
+        <para id="id5014423">Ở một nhiệt độ thanh trùng nhất định, vi sinh vật trong đồ hộp thường không bị tiêu diệt ngay tức thời, mà cần phải có một thời gian nhất định gọi là thời gian thanh trùng hay thời gian tác dụng nhiệt, ký hiệu là t (phút).</para>
+        <para id="id5014436">Trong quá trình thanh trùng, sản phẩm đựng trong đồ hộp, không được đun nóng tức thời tới nhiệt độ thanh trùng cần đạt được, mà nhiệt lượng phải truyền dần từ môi trường đun nóng, qua bao bì vào lớp sản phẩm bên ngoài, rồi vào tới khu vực trung tâm của đồ hộp. Quá trình này phải mất một thời gian, gọi là thời gian truyền nhiệt (ký hiệu là t1). Khi khu vực trung tâm của đồ hộp đạt tới nhiệt độ thanh trùng, thì giữ ở nhiệt độ đó trong một thời gian nhất định, gọi là thời tiêu diệt (ký hiệu là t2).</para>
+        <para id="id5014477">Như vậy thời gian thanh trùng tổng quát của đồ hộp (hay thời gian đồ hộp chịu tác dụng nhiệt) bao gồm thời gian truyền nhiệt (t1) và thời gian tiêu diệt (t2)</para>
+        <para id="id5014508"/>
+        <para id="id5014513">t = t1 + t2 (phút)</para>
+        <para id="id5014552">Nhưng trong thực tế, ngay trong thời gian truyền nhiệt, một số vi sinh vật có trong đồ hộp cũng bị tiêu diệt, do tác dụng của nhiệt độ cao hơn nhiệt độ phát triển của vi sinh vật đó. Vì vậy thời gian thanh trùng thực tế nhỏ hơn tổng của thời gian truyền nhiệt và thời gian tiêu diệt.</para>
+        <para id="id5014570">ttt &lt; t1 + t2</para>
+        <para id="id5014609"/>
+        <para id="id5014614">Muốn xác định được chính xác thời gian thanh trùng t, cần phải khảo sát các yếu tố ảnh hưởng tới thời gian truyền nhiệt t1 và thời gian tiêu diệt t2 đối với đồ hộp cần thanh trùng.</para>
+        <para id="id5014646"> c. Áp suất đối kháng</para>
+        <para id="id5014659"> Thực phẩm đựng trong hộp bao gồm các thành phần : chất rắn, chất lỏng, chất khí. Dưới tác dụng của nhiệt độ cao, các áp suất riêng phần và sự dãn nở của các cấu tử đó tăng lên, làm cho áp suất chung trong bao bì đựng sản phẩm tăng lên. Áp suất này (có thể tới 2 atm) có thể làm cho bao bì sắt tây bị biến dạng, bao bì thủy tinh bị nứt, vở. Vì vậy ta cần tạo ra áp suất trong thiết bị thanh trùng (căn cứ vào tính chất của bao bì, thành phần của sản phẩm đựng trong hộp và nhất là nhiệt độ thanh trùng) bằng hay gần bằng áp suất dư đã tăng lên trong hộp, áp suất này gọi là áp suất đối kháng, thường vào khoảng 0,4 - 1,4 atm.</para>
+        <para id="id5014699">Áp suất (Bar)</para>
+        <para id="id5014726">
+          <figure id="id5014751">
+            <media id="id7014220" alt=""><image src="../../media/graphics4-0b52.png" mime-type="image/png" height="170" width="368"/></media>
+          </figure>
+        </para>
+        <para id="id5014775">Ghi chú Sản phẩmThiết bị</para>
+        <para id="id5014821"/>
+        <para id="id5014843"/>
+        <para id="id5014865">Hình 4.4. Sự thay đổi áp suất trong quá trình thanh trùng(không có áp suất đối kháng)Hình 4.5. Sự thay đổi áp suất trong quá trình thanh trùng(có áp suất đối kháng)Áp suất (Bar)<figure id="id5014987"><media id="id6919636" alt=""><image src="../../media/graphics5-ecd1.png" mime-type="image/png" height="179" width="377"/></media></figure></para>
+        <para id="id5015011">* Khi xác định được các thông số của một chế độ thanh trùng đồ hộp, ta ghi lại thành công thức thanh trùng tổng quát :</para>
+        <para id="id5015025">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>a</m:mi>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mi>A</m:mi>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mi>B</m:mi>
+                          </m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mi>C</m:mi>
+                        </m:mrow>
+                        <m:msup>
+                          <m:mi>T</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>o</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mfrac>
+                      <m:mi>P</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{a {  {A - B - C}  over  {T rSup { size 8{o} } } } P} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5015124"/>
+        <para id="id5015133"/>
+        <para id="id5015137">a: Thời gian đuổi không khí ra khỏi thiết bị thanh trùng (bằng hơi nước),   tính bằng phút. </para>
+        <para id="id5015158">Thời gian đuổi khí thường kéo dài : 5 - 10 phút</para>
+        <para id="id5015169">Nếu thanh trùng trong thiệt bị hở (bằng nước) thì không có thời gian </para>
+        <para id="id5015182">đuổi khí a.</para>
+        <para id="id5015191">A: Thời gian nâng nhiệt độ, trong thiết bị thanh trùng đã chứa đồ hộp, từ  nhiệt độ ban đầu tới nhiệt độ thanh trùng cần thiết (phút).</para>
+        <para id="id5015213">B: Thời gian giữ nhiệt độ không đổi trong thiết bị thanh trùng (phút).</para>
+        <para id="id5015225">C: Thời gian hạ nhiệt từ nhiệt độ thanh trùng tới nhiệt độ có thể lấy đồ  hộp ra (phút).</para>
+        <para id="id5015244">To: Nhiệt độ thanh trùng (oC)</para>
+        <para id="id5015270">p: Áp suất đối kháng cần tạo ra trong thiết bị thanh trùng (atm)</para>
+        <figure id="id5015285">
+          <media id="id3594636" alt=""><image src="../../media/graphics6-1d74.png" mime-type="image/png" height="260" width="401"/></media>
+        </figure>
+        <para id="id5015309">Hình 4.6. Đồ thị thanh trùng tổng quát</para>
+      </section>
+      <section id="id-894054253516">
+        <title>Các yếu tố ảnh hưởng đền thời gian thanh trùng</title>
+        <para id="id5015350">a. Các yếu tố ảnh hưởng đến thời gian truyền nhiệt trong quá trình thanh trùng</para>
+        <para id="id5015362">+ Tính chất vật lý của sản phẩm</para>
+        <para id="id5015369"> Các loại đồ hộp có tính chất vật lý khác nhau như độ nhớt và trọng lượng riêng. Do đó các loaüi đồ hộp có thời gian truyền nhiệt khác nhau.</para>
+        <para id="id5015384">- Các loại đồ hộp sản phẩm lỏng (như nước quả) có độ nhớt thấp và tỉ trọng nhỏ, nên sự truyền nhiệt của các sản phẩm này xảy ra nhanh bằng các dòng đối lưu. Nhiệt độ ở giữa hộp đạt tới nhiệt độ thanh trùng chậm hơn ở thiết bị đạt tới nhiệt độ thanh trùng khoảng 13 - 15 phút.</para>
+        <para id="id5015402">- Các loại đồ hộp sản phẩm đặc (như paté, thịt hầm) sự truyền nhiệt của các sản phẩm này bằng cách dẫn nhiệt. Vì hệ số dẫn nhiệt của thực phẩm nhỏ nên sự đun nóng các sản phẩm này xảy ra chậm. Nhiệt độ thanh trùng ở giữa hộp đạt được chậm hơn nhiệt độ thanh trùng ở thiết bị khoảng 40 phút.</para>
+        <para id="id5015421">- Các loại đồ hộp sản phẩm có phần ở thể đặc, có phần ở thể lỏng (như đồ hộp quả nưóc đường, cá ngâm dầu). Sự truyền nhiệt xảy ra theo hai cách : đối lưu và dẫn nhiệt. Nhiệt độ thanh trùng ở giữa hộp đạt được chậm hơn nhiệt độ thanh trùng ở thiết bị khoảng 28 phút.</para>
+        <para id="id5015439">Ngoài ra các dung dịch có chứa nhiều đường, tinh bột, pectin, cellulose làm ảnh hưởng đến tính chất vật lý nên ảnh hưởng đến thời gian truyền nhiệt. Có thể kéo dài thời gian truyền nhiệt.</para>
+        <para id="id5015456">+ Tính chất của bao bì</para>
+        <para id="id5015464">Các loại sản phẩm thực phẩm đựng trong các loại bao bì làm bằng vật liệu khác nhau, có độ dầy khác nhau, kích thước khác nhau. Nên thời gian truyền nhiệt trong chế độ thanh trùng khác nhau. </para>
+        <para id="id5015482">- Ảnh hưởng tính chất vật lý của bao bì</para>
+        <para id="id5015502">Khi truyền nhiệt từ môi trường đun nóng bên ngoài vào khu vực trung tâm của bao bì. Trước hết phải khắc phục nhiệt trở của thành bao bì, nhiệt trở này phụ thuộc vào độ dầy của bao bì () và hệ số dẫn nhiệt của vật liệu làm bao bì (). Nhiệt trở đó biểu thị bằng tỉ số /. Nhiệt trở chung càng lớn thì thời gian truyền nhiệt càng kéo dài.</para>
+        <section id="id-6179411913">
+          <title>Bảng 4.9. Tính chất vật lý của các loại bao bì</title>
+          <table id="id5015572" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry>Loại bao bì</entry>
+                  <entry>Chiều dày trung bình  (m)</entry>
+                  <entry>Độ dẫn nhiệt (w/m.oC)</entry>
+                  <entry>Nhiệt trở / ( oC.m2/w)</entry>
+                </row>
+                <row>
+                  <entry>Sắt tâyThủy tinh</entry>
+                  <entry>0,24 – 0,26.10-32 - 6.10-3</entry>
+                  <entry>46 - 520,6 - 0,9</entry>
+                  <entry>4,6 - 7,8.10-5200 - 1000.10-5</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5015823">(Nguyễn Vân Tiếp. 2000)</para>
+          <para id="id5015828">Nhưng trong quá trình thanh trùng, không thể nghiên cứu riêng rẽ ảnh hưởng nhiệt trở của bao bì, mà phải xét ảnh hưởng của cả khối sản phẩm :</para>
+          <para id="id5015843"> Trường hợp sản phẩm lỏng đựng trong bao bì sắt tây: sự truyền nhiệt từ môi trường đun nóng tới thành hộp sắt là sự truyền nhiệt chủ yếu bằng đối lưu. Thời gian truyền nhiệt đối với các sàn phẩm lỏng đựng trong bao bì sắt tây rất ngắn.</para>
+          <para id="id5015872"> Trường hợp sản lỏng đựng trong bao bì thủy tinh: sự truyền nhiệt gồm đối lưu và dẫn nhiệt. Thời gian truyền nhiệt trong chế độ thanh trùng này lớn hơn thời gian truyền nhiệt của trường hợp trên.</para>
+          <para id="id5015898"> Trường hợp sản phẩm đặc đựng trong bao bì sắt tây : sự truyền nhiệt ở bên trong hộp chủ yếu bằng dẫn nhiệt. Thời gian đun nóng trong trường hợp này sẽ kéo dài hơn 2 trường hợp trên. Và coi thời gian đó chủ yếu phụ thuộc vào tính chất và nhiệt trở của sản phẩm đặc.</para>
+          <para id="id5015927"> Trường hợp sản phẩm đặc đựng trong bao bì thủy tinh : Sự truyền nhiệt chủ yếu cũng bằng dẫn nhiệt. Thời gian truyền nhiệt trong trường hợp này dài nhất và phụ thuộc vào tính chất của bao bì thủy tinh và sản phẩm, trong đó tính chất của sản phẩm giữ vai trò chủ yếu.</para>
+          <para id="id5015955">Tóm lại trong cả 4 trường hợp: Tính dẫn nhiệt và độ dầy của bao bì chỉ có ảnh hưởng đáng kể đến thời gian truyền nhiệt trong chế độ thanh trùng khi có các dòng đối lưu mạnh. Trường hợp đồ hộp chứa sản phẩm đặc, nghĩa là sự truyền nhiệt chủ yếu bằng dẫn nhiệt thì các đặc điểm của bao bì ít có ảnh hưởng đến thời gian truyền nhiệt. Mà chủ yếu là tính chất của sản phẩm, sản phẩm càng đặc, càng có hệ số dãn nhiệt nhỏ và bề dầy lớp sản phẩm từ ngoài vào lớp giữa hộp càng lớn, thì thời gian truyền nhiệt càng kéo dài. </para>
+          <para id="id5015989"/>
+          <para id="id5015995">- Ảnh hưởng kích thước hình học của bao bì</para>
+          <para id="id5016008">Các loại bao bì có những hình dạng và kích thước hình học rất phức tạp. Nên việc nghiên cứu ảnh hưởng kích thước hình học của bao bì tới thời gian truyền nhiệt chưa được đầy đủ lắm. Loại bao bì có kích thước hình học đơn giản nhất là bao bì hình trụ. Dựa trên những kiến thức cơ bản của lý thuyết về truyền nhiệt, đã tính được thời gian truyền nhiệt của bao bì hình trụ theo công thức :</para>
+          <para id="id5016029">t­­o = A (8,3HD + D2)</para>
+          <para id="id5016058">Với</para>
+          <para id="id5016069"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>A</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>19</m:mtext><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mtext>lg</m:mtext><m:mrow><m:mi>d</m:mi><m:mo stretchy="false">−</m:mo><m:mn>0,</m:mn></m:mrow><m:mtext>01</m:mtext></m:mrow></m:mfrac></m:mrow><m:mrow><m:mtext>973</m:mtext><m:mi>λ</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A= {  {"19"- {  {1}  over  {"lg"d-0,"01"} } }  over  {"973"λ} } } {}</m:annotation></m:semantics></m:math> ; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>δ</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{δ= {  {T rSub { size 8{2} }  - T rSub { size 8{1} } }  over  {T rSub { size 8{n} }  - T rSub { size 8{1} } } } } {}</m:annotation></m:semantics></m:math></para>
+          <para id="id5016279">H : chiều cao ngoài của hộp, (cm)</para>
+          <para id="id5016287">D : đường kính ngoài của hộp, (cm)</para>
+          <para id="id5016298">T1 : nhiệt độ ban đầu của hộp, (o­C)</para>
+          <para id="id5016326">T2 : nhiệt độ khi cuối ở giữa hộp, (oC)</para>
+          <para id="id5016354">Tn : nhiệt độ thanh trùng, (oC)</para>
+          <para id="id5016382"> : hệ số dẫn nhiệt chung của đồ hộp, (w/moC)</para>
+          <para id="id5016409">to : thời gian đun nóng ở giữa hộp từ nhiệt độ T1 đến T2, (phút)</para>
+          <para id="id5016446">Nếu thanh trùng cùng một sản phẩm đựng trong 2 bao bì có kích thước hình học khác nhau, thì ta có tỉ lệ đơn giản :</para>
+          <para id="id5016461">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:msub>
+                            <m:mi>t</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>01</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:msub>
+                            <m:mi>t</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>02</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mfrac>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>8,3</m:mn>
+                            <m:msub>
+                              <m:mi>H</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>1</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>D</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:msubsup>
+                                <m:mi>D</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msubsup>
+                            </m:mrow>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mn>8,3</m:mn>
+                            <m:msub>
+                              <m:mi>H</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>D</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:msubsup>
+                                <m:mi>D</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msubsup>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ {  {t rSub { size 8{"01"} } }  over  {t rSub { size 8{"02"} } } } = {  {8,3H rSub { size 8{1} } D rSub { size 8{1} } +D rSub { size 8{1} }  rSup { size 8{2} } }  over  {8,3H rSub { size 8{2} } D rSub { size 8{2} } +D rSub { size 8{2} }  rSup { size 8{2} } } } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id5016652"/>
+          <para id="id5016662">Công thức này cho ta tính được gần đúng thời gian truyền nhiệt một loại đồ hộp có kích thước khác khi đã biết thời gian truyền nhiệt của sản phẩm đó đựng trong bao bì xác định.</para>
+          <para id="id5016679">Công thức truyền nhiệt không những cho biết thời gian truyền nhiệt mà còn có thể khảo sát ảnh hưởng của các loại đồ hộp đó. Cùng một thể tích, nếu hộp dẹt (H/D&lt;1) tức là hộp có đưòng kính lớn sẽ truyền nhiệt nhanh hơn hộp cao. Vận tốc truyền nhiệt cực đại khi H/D  0,25 .</para>
+          <para id="id5016705">+ Ảnh hưởng của nhiệt độ ban đầu của đồ hộp </para>
+          <para id="id5016719">Thời gian truyền nhiệt của đồ hộp còn phụ thuộc vào nhiệt độ ban đầu của đồ hộp trước khi thanh trùng và nhiệt độ của thiết bị thanh trùng.</para>
+          <para id="id5016736">- Đối với sản phẩm lỏng, do sự truyền nhiệt chủ yếu bằng các dòng đối lưu, nên nhiệt độ ban đầu ít có ảnh hưởng đến thời gian truyền nhiệt.</para>
+          <para id="id5016753">- Đối với sản phẩm đặc, thì sự truyền nhiệt chủ yếu bằng dẫn nhiệt, nên nhiệt độ ban đầu của sản phẩm có ảnh hưởng nhiều đến vận tốc truyền nhiệt của sản phẩm. Đồ hộp lúc thanh trùng càng nguội thì thời gian truyền nhiệt càng kéo dài.</para>
+          <para id="id5016774">Từ công thức to = A (8,3 HD + D2), với các giả thiết là nhiệt độ thanh trùng ở khoảng 110 - 120oC, nhiệt độ ở giữa hộp sau khi đun nóng thấp hơn nhiệt độ của thiết bị là 1oC, để lập ra công thức tính gần đúng thời gian truyền nhiệt đồ hộp như sau </para>
+          <para id="id5016829"> Đối với đồ hộp loại nguội (có nhiệt độ ban đầu : 20 - 45oC)</para>
+          <para id="id5016858">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>t</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>0,</m:mn>
+                            <m:mtext>072</m:mtext>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mn>8,3</m:mn>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>HD</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:msup>
+                                <m:mi>D</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                            <m:mo stretchy="false">)</m:mo>
+                          </m:mrow>
+                          <m:mi>λ</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{t rSub { size 8{0} } = {  {0,"072" \( 8,3 ital "HD"+D rSup { size 8{2} }  \) }  over  {λ} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id5016982"/>
+          <para id="id5016993"> Đối với đồ hộp loại nóng ( có nhiệt độ ban đầu : 45 - 90oC)</para>
+          <para id="id5017022">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>t</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>0</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>0,</m:mn>
+                            <m:mtext>061</m:mtext>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mn>8,3</m:mn>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>HD</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:msup>
+                                <m:mi>D</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                            <m:mo stretchy="false">)</m:mo>
+                          </m:mrow>
+                          <m:mi>λ</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{t rSub { size 8{0} } = {  {0,"061" \( 8,3 ital "HD"+D rSup { size 8{2} }  \) }  over  {λ} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id5017146">Theo 2 công thức này khi đun nóng đồ hộp nóng thì rút ngắn được 18% thời gian truyền nhiệt. Vậy đối với đồ hộp có nhiệt độ ban đầu càng nguội, thì vận tốc truyền nhiệt càng nhỏ, thời gian truyền nhiệt càng kéo dài.</para>
+          <para id="id5017167">+ Ảnh hưởng của trạng thái chuyển động của đồ hộp khi thanh trùng.</para>
+          <para id="id5017180">Trong sản xuất đồ hộp phần lớn các thiết bị thanh trùng đều là loại không làm chuyển động hộp khi làm việc. Vì vậy thời gian truyền nhiệt đối với các loại đồ hộp tương đối dài. Khi tạo ra sự đối lưu nhân tạo bằng cách làm chuyển động hộp thì sự truyền nhiệt sẽ tăng lên. Giảm được thời gian truyền nhiệt trong chế độ thanh trùng.</para>
+          <para id="id5017201">Muốn tạo ra sự đối lưu nhân tạo đó, người ta chế tạo các loại thiết bị thanh trùng có băng tải đồ hộp, thường là các thiết bị làm việc liên tục. Tùy theo cấu tạo của mỗi loại thiết bị mà đồ hộp có vận tốc chuyển động quay khác nhau hay phương pháp quay khác nhau.</para>
+          <para id="id5017222">b. Các yếu tố ảnh hưởng đến thời gian tiêu diệt vi sinh vật trong quá trình thanh trùng</para>
+          <para id="id5017236">+ Ảnh hưởng của nhiệt độ thanh trùng </para>
+          <para id="id5017248">Ở nhiệt độ 60OC thì các loại vi sinh vật đã có thể bắt đầu bị tiêu diệt. Nhưng nếu nhiệt độ thanh trùng thấp thì phải kéo dài thời gian tiêu diệt. Ngược lại, nhiệt độ thanh trùng càng cao thì thời gian tiêu diệt càng ngắn. </para>
+          <para id="id5017277">Giữa thời gian tiêu diệt vi sinh vật và nhiệt độ thanh trùng có mối quan hệ logarite. Người ta đã xác định được mối liên hệ đó theo phương trình sau:</para>
+          <para id="id5017294"> T2 - T1</para>
+          <para id="id5017332">t2 = t2’ . 10 Z</para>
+          <para id="id5017373"/>
+          <para id="id5017379">t2 : thời gian tiêu diệt vi sinh vật tương ứng với nhiệt độ T1 (phút)</para>
+          <para id="id5017410">t2’: thời gian tiêu diệt vi sinh vật tương ứng với nhiệt độ T2 (phút)</para>
+          <para id="id5017444">z : hệ số nhiệt đô, tùy theo tính chất của mỗi loại vi sinh vật mà có trị số z khác nhau (loại tiêu biểu nhất, trong chế độ thanh trùng đồ hộp, phải loại trừ là Clostridium botulinum có trị số z = 10OC).</para>
+          <para id="id5017480">+ Ảnh hưởng thành phần hóa học của sản phẩm</para>
+          <para id="id5017493">Vi sinh vật sống trong môi trường của sản phẩm thực phẩm khác nhau, thì nhiệt độ tiêu diệt các loại vi sinh vật đó không giống nhau. Vì vậy cần khảo sát các thành phần hóa học của môi trường thực phẩm đến khả năng tiêu diệt bằng nhiệt các vi sinh vật đó.</para>
+          <para id="id5017514"> Ảnh hưởng của độ acid: chỉ số pH là yếu tố quan trọng có ảnh hưởng đến độ bền đối với nhiệt của vi sinh vật. Nếu môi trường có độ acid hoạt động càng cao (chỉ số pH nhỏ) thì ở nhiệt độ thanh trùng nhất định, thời gian tiêu diệt vi sinh vật càng ngắn. Tuy nhiên vẫn có những trường hợp cá biệt chỉ số pH hầu như không có ảnh hưởng đến thời gian tiêu diệt vi sinh vật.</para>
+          <para id="id5017542">Bảng 4.10. Ảnh hưởng của pH đến sự kháng nhiệt của bào tử vi khuẩn </para>
+          <para id="id5017555">clostridium sporogenes ở nhiệt độ 115oC</para>
+          <table id="id5017585" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>pH</entry>
+                  <entry>Thời gian kháng nhiệt tối đa (phút)</entry>
+                </row>
+                <row>
+                  <entry>5,05,76,06,67,07,58,2</entry>
+                  <entry>9121521252015</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5017969">(G. Guilmain. 1996)</para>
+          <para id="id5017973">Các kết quả nghiên cứu cho thấy không những chỉ có độ acid hoạt động của môi trường có ảnh hưởng đến độ bền nhiệt của vi sinh vật. Mà loại acid của môi trường cũng có ảnh hưởng đáng kể.</para>
+          <para id="id5017993"> Ảnh hưởng của nồng độ đường và muối: đường và muối là những chất có khả năng tạo ra áp suất thẩm thấu cao nên ảnh hưởng đến hoạt động của vi sinh vật. </para>
+          <para id="id5018018">Dung dịch đường có tác dụng bảo vệ vi sinh vật làm cho chúng khó bị tiêu diệt hơn khi đun nóng. Nếu thành phần thực phẩm có nhiều đường thì thời gian tiêu diệt càng kéo dài.</para>
+          <para id="id5018036">Nếu tăng nồng độ muối thì độ bền nhiệt của vi sinh vật càng giảm, chúng dễ bị tiêu diệt hơn. </para>
+          <para id="id5018052">Nhưng nếu nồng độ đường hay muối quá cao thì do tác dụng của hiện tượng tiêu nguyên sinh, các vi sinh vật đó yếu đi nhiều và dễ bị tiêu diệt.</para>
+          <para id="id5018069"> Ảnh hưởng của protid và lipid: trong các sản phẩm thực phẩm chứa nhiều protid, lipid thì thời gian tiêu diệt phải kéo dài. Vì các chất này làm cản trở sự truyền nhiệt để tiêu diệt các tế bào vi sinh vật. Hiện tượng này là do dung dịch keo (tế bào vi sinh vật) tiếp xúc với chất béo tạo thành màng. Tế bào vi sinh vật được màng này bảo vệ nên sự dịch chuyển nước từ môi trường xung quanh vào tế bào để làm đông tụ phần protid của tế bào ấy sẽ bị cản trở. Vì vậy trong môi trường càng nhiều chất béo, các vi sinh vật càng chịu được nhiệt độ cao, thời gian tiêu diệt càng kéo dài.</para>
+          <para id="id5018112"> Ảnh hưởng của các thành phần hóa học khác: ngoài các thành phần trên, thì các phitonxit cũng có ảnh hưởng lớn đến chế độ thanh trùng. Thời gian thanh trùng đồ hộp có thể giảm xuống khi cho thêm một số rau hay gia vị có chứa nhiều phitonxit như: hành, tỏi có allycin, cà chua có tomatin, ớt có capcaicin, tiêu có piperin ... là các chất có tính chất kháng sinh. Do đó khi chế biến các loại đồ hộp thịt, cá ta cho thêm các gia vị này, không những làm tăng hương vị của sản phẩm mà còn giảm được mức độ nhiễm trùng trong đồ hộp trước khi thanh trùng. Và cũng giảm được thời gian thanh trùng cần thiết.</para>
+          <para id="id5018156">+ Ảnh hưởng của loại và số lượng vi sinh vật</para>
+          <para id="id5018169"> Thời gian tiêu diệt của một chế độ thanh trùng phụ thuộc rất nhiều vào đặc điểm của các loại vi sinh vật có thể phát triển trong đồ hộp, vì khả năng chịu nhiệt của các loại vi sinh vật rất khác nhau. Trong cùng một môi trường có cùng độ acid hoạt động, các loại vi khuẩn không nha bào bị tiêu diệt nhanh hơn loại vi khuẩn có nha bào. Thời gian tiêu diệt của phần lớn các vi sinh vật không nha bào chỉ cần ở 60 - 80OC trong vài phút. Còn các loại vi sinh vật có nha bào phải đòi hỏi thời gian kéo dài hơn nhiều có thể hơn hàng giờ.</para>
+          <para id="id5018209"> Thời gian tiêu diệt trong chế độ thanh trùng còn phụ thuộc vào số lượng vi sinh vật nhiễm vào đồ hộp. Lượng vi sinh vật nhiễm nhiều thì thời gian tiêu diệt dài, cho thấy qua công thức :</para>
+          <para id="id5018237">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mi>t</m:mi>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mi>D</m:mi>
+                        </m:mrow>
+                        <m:mtext>lg</m:mtext>
+                        <m:mfrac>
+                          <m:msub>
+                            <m:mi>N</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>0</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mi>N</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{t=D"lg" {  {N rSub { size 8{0} } }  over  {N} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+        </section>
+      </section>
+      <section id="id-637965112446">
+        <title>Cách thiết lập chế độ thanh trùng</title>
+        <para id="id5018320">Thiết lập chế độ thanh trùng cho một loại đồ hộp là xác định nhiệt độ và thời gian thanh trùng cần thiết để vừa đảm bảo yêu cầu tiêu diệt vi sinh vật, vừa giữ được giá trị dinh dưỡng và giá trị cảm quan của đồ hộp.</para>
+        <para id="id5018341">Các giai đoạn tiến hành trình tự như sau:</para>
+        <para id="id5018352">- Phân tích thành phần hóa học của thực phẩm cần đóng hộp, chủ yếu là độ acid, hàm lượng đường, muối, chất béo, protid ... </para>
+        <para id="id5018369">- Chọn nhiệt độ thanh trùng căn cứ vào độ acid (pH)</para>
+        <para id="id5018382">+ Đồ hộp có pH &lt; 4,6 thì nhiệt độ thanh trùng : 80 - 100OC+ Đồ hộp có pH &gt; 4,6 thì nhiệt độ thanh trùng :105 - 121OC</para>
+        <para id="id5018424">- Xác định tốc độ truyền nhiệt vào trung tâm hộp theo nhiệt độ thanh trùng đã chọn bằng nồi hấp thí nghiệm: dưới nồi hấp đặt một hộp sản phẩm, trên nắp hộp có đặt một nhiệt kế, bầu thủy ngân của nhiệt kế cắm đúng trung tâm hộp. Cho hơi vào nồi hấp và cứ sau một khoảng thời gian (thường khoảng 1 phút) đọc nhiệt độ ở cột nhiệt kế. Sau khi đo được nhiệt độ giữa hộp ở từng thời điểm người ta vẽ đồ thị truyền nhiệt. Từ đó xác định được thời gian truyền nhiệt.</para>
+        <para id="id5018454">- Phân lập vi sinh vật để xác định loại vi sinh vật nguy hiểm nhất bao gồm loại gây bệnh, loại có độc tố, loại chịu nhiệt... Tìm tốc độ tiêu diệt theo các số liệu đã có. Trên cơ sở đó vẽ đồ thị thời gian tiêu diệt. Thiết lập thời gian thanh trùng.</para>
+        <para id="id5018474">- Kiểm tra chế độ thanh trùng theo phương pháp biểu đồ của Biegelow, hay theo phương pháp hiệu ứng của Ball - Flaumenbaum.</para>
+        <para id="id5018490">- Từ các mẫu đồ hộp đã thanh trùng theo các chế độ khác nhau, người ta kiểm tra chất lượng đồ hộp về cảm quan và về vi sinh vật. Sau đó xét đến hiệu quả kinh tế của chế độ thanh trùng, mà chọn ra chế độ thanh trùng tốt nhất.</para>
+      </section>
+      <section id="id-601648812493">
+        <title>Giới thiệu thiết bị thanh trùng</title>
+        <para id="id5018521">a. Thiết bị thanh trùng hở nắp</para>
+        <para id="id5018530">Có cấu tạo đơn giản như nồi nấu, dùng môi trường truyền nhiệt là nước được đun sôi bằng hơi hoặc đun trực tiếp bằng nhiên liệu.</para>
+        <para id="id5018547">Dùng để thanh trùng các loại đồ hộp có nhiệt độ thanh trùng không quá 100OC.</para>
+        <para id="id5018569">b. Thiết bị thanh trùng có áp suất cao làm việc gián đoạn</para>
+        <para id="id5018582">Dùng để thanh trùng các loại đồ hộp có nhiệt độ thanh trùng từ 100oC trở lên, có nắp đậy kín, còn gọi là nồi hấp thanh trùng. Có 2 loại nồi hấp: loại đặt thẳng đứng và loại đặt nằm ngang.</para>
+        <para id="id5018610">+ Thiết bị hấp thanh trùng loại thẳng đứng </para>
+        <para id="id5018623">Có thân hình trụ, đáy và nắp hình chõm cầu, nắp có các chốt ghép chặt với thân thiết bị, dưới đáy có lắp ống phun hơi nóng để thanh trùng. Bên trong thiết bị có giá đỡ để đặt giỏ đựng đồ hộp, có loại chỉ có 1 giỏ, loại 2 giỏ, loại 3 giỏ.</para>
+        <para id="id5018644">+ Thiết bị hấp thanh trùng loại đặt nằm ngang</para>
+        <para id="id5018656">Thân thiết bị đặt nằm ngang, bên trong không có giá đỡ giỏ mà có đường rây để cho xe đựng các giỏ đồ hộp đẩy vào.</para>
+        <para id="id5018672">Loại này có khả năng làm việc cao, nhưng thao tác phức tạp, chu kỳ làm việc kéo dài, tốn hơi và nước nhiều.</para>
+        <figure id="id5018691">
+          <media id="id4244611" alt=""><image src="../../media/graphics7-d71e.png" mime-type="image/png" height="404" width="550"/></media>
+        </figure>
+        <figure id="id5018718">
+          <media id="id3845423" alt=""><image src="../../media/graphics8-32ea.png" mime-type="image/png" height="303" width="526"/></media>
+        </figure>
+        <para id="id5018742">Hình vẽ: Thiết bị tiệt trùng hơi dạng nằm ngang</para>
+        <para id="id5018752">c. Thiết bị thanh trùng làm việc liên tục dùng áp suất thủy tĩnh</para>
+        <para id="id5018759">Thiết bị gồm có 2 nhánh cột nước cao 12 - 20 m chứa đầy nước nóng. Giữa 2 cột nước là một phòng chứa đầy hơi nước nóng. Cuối cột nước thứ II là thùng nước lạnh. Đồ hộp được chuyển bằng băng tải xích. Áp suất trong phòng hơi được điều chỉnh bằng cách điều chỉnh chiều cao mực nước ở 2 nhánh cột nước. Thời gian thanh trùng được điều chỉnh bằng vận tốc của băng tải.</para>
+        <para id="id5018780">Thiết bị này làm việc với năng suất cao nhưng có nhược điểm là cấu tạo hơi cồng kềnh.</para>
+        <figure id="id5018798">
+          <media id="id6916647" alt=""><image src="../../media/graphics9-cbfa.png" mime-type="image/png" height="400" width="498"/></media>
+        </figure>
+        <para id="id5018822">d. Thiết bị thanh trùng bản mỏng</para>
+        <para id="id5018829">Đây là loại thiết bị làm việc liên tục ở áp suất hơi nước cao hơn áp suất khí quyển. Cấu tạo của thiết bị nhờ các khoang chứa nước quả đặt xen kẻ với các khoang chứa chất tải nhiệt, và nước quả chảy trong khoang kín chỉ bằng một lớp mỏng, lại được truyền nhiệt từ 2 mặt nên thời gian thanh trùng rất nhanh. Thiết bị thanh trùng bản mỏng dùng để thanh trùng nước quả trước khi rót vào hộp và phải rót hộp trong điều kiện vô trùng.</para>
+        <figure id="id5018859">
+          <media id="id5410811" alt=""><image src="../../media/graphics10-99f3.png" mime-type="image/png" height="292" width="353"/></media>
+        </figure>
+        <figure id="id5018887">
+          <media id="id7122533" alt=""><image src="../../media/graphics11.png" mime-type="image/png" height="275" width="345"/></media>
+        </figure>
+        <figure id="id5018914">
+          <media id="id6879394" alt=""><image src="../../media/graphics12.png" mime-type="image/png" height="309" width="549"/></media>
+        </figure>
+      </section>
+    </section>
+  </content>
+</document>

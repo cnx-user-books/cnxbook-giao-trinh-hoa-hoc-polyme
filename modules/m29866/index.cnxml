@@ -1,0 +1,240 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Kỹ thuật chế biến đồ hộp nước quả</title>
+  <metadata>
+  <md:content-id>m29866</md:content-id><md:title>Kỹ thuật chế biến đồ hộp nước quả</md:title>
+  <md:abstract>KỸ THUẬT CHẾ BIẾN ĐỒ HỘP NƯỚC QUẢ</md:abstract>
+  <md:uuid>0632bcfd-08f2-4489-af9c-63dcc92c8898</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-75867071975">
+      <title>Đặc điểm chung và phân loại đồ hộp nước quả</title>
+      <para id="id4673584">Những chất có giá trị dinh dưỡng cao nhất trong rau quả như đường, acid hữu cơ, vitamin... đều tập trung ở dịch quả. Nhờ có đầy đủ và cân đối các chất ấy nên nước quả có hương vị rất thơm ngon.</para>
+      <para id="id4673597">Đồ hộp nước quả chủ yếu dùng để uống, ngoài ra còn dùng để chế biến xirô quả, rượu mùi, nước giải khát có nạp khí, mứt đông...</para>
+      <section id="id-221436853898">
+        <title>Bảng 7.1. Thành phần dinh dưỡng của một số nước quả </title>
+        <table id="id4673613" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>Loại nước quả</entry>
+                <entry>Nước (%)</entry>
+                <entry>Prôtid(%)</entry>
+                <entry>Lypid(%)</entry>
+                <entry>Glucid(%)</entry>
+                <entry>Cellulose(%)</entry>
+                <entry>Acid hữu cơ(%)</entry>
+                <entry>Tro(%)</entry>
+                <entry>Độ sinh nhiệt (kcal/100g)</entry>
+              </row>
+              <row>
+                <entry>Cam Quít MơMậnDứa Bưởi chùm</entry>
+                <entry>84,587,884,082,084,790,1</entry>
+                <entry>0,70,80,50,30,30,4</entry>
+                <entry>0000vết0,1</entry>
+                <entry>13,39,614,016,114,06,65</entry>
+                <entry>0,20,20,30,30,10,1</entry>
+                <entry>1,00,90,81,30,61,42</entry>
+                <entry>0,30,70,40,30,30,4</entry>
+                <entry>614663736038</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5047340">(Nguyễn Vân Tiếp. 2000)</para>
+        <para id="id5047345">Người ta phân loại đồ hộp nước quả như sau:</para>
+        <para id="id5047351">Căn cứ theo mức độ tự nhiên, người ta chia nước quả thành các loại:</para>
+        <list id="id5047358" list-type="bulleted">
+          <item>Nước quả tự nhiên: chế biến từ một loại quả, không pha thêm đường, tinh dầu, chất màu.</item>
+        </list>
+        <para id="id5047371">Nước quả tự nhiên dùng để uống trực tiếp hoặc để chế biến các loại nước ngọt, rượu mùi. Nước các loại quả quá chua khi uống phải pha thêm đường. Để tăng hương vị nước quả đôi khi người ta cho lên men rượu một phần hoặc toàn bộ đường có trong nước quả tự nhiên.</para>
+        <list id="id5047385" list-type="bulleted">
+          <item>Nước quả hỗn hợp: chế biến bằng cách trộn lẫn nhiều loại nước quả khác nhau, lượng nước quả pha thêm không quá 35% nước quả chính.</item>
+          <item>Nước quả pha đường: để tăng vị ngon, một số nước quả như chanh, cam, quít người ta thường pha thêm đường.</item>
+          <item>Nước quả cô đặc: chế biến bằng cách cô đặc nước quả tự nhiên theo phương pháp đun nóng (bốc hơi) hay phương pháp lạnh đông (tách nước đá). Nước quả cô đặc có lợi là đỡ tốn bao bì, kho tàng, vận chuyển và ít bị vi sinh vật làm hỏng.</item>
+        </list>
+        <para id="id5047425">Căn cứ theo phương pháp bảo quản, người ta chia nước quả thành các loại:</para>
+        <list id="id5047433" list-type="bulleted">
+          <item>Nước quả thanh trùng: đóng vào bao bì kín, thanh trùng bằng cách đun nóng trước hoặc sau khi ghép kín.</item>
+          <item>Nước quả bảo quản lạnh: bảo quản ở nhiệt độ 0 - 2oC.</item>
+          <item>Nước quả nạp khí: nạp CO2 để ức chế sự hoạt động của vi sinh vật và tăng tính chất giải khát.</item>
+          <item>Nước quả sunfit hóa: bảo quản bằng SO2, dùng làm bán phế phẩm.</item>
+          <item>Nước quả rượu hoá: pha rượu để ức chế sự hoạt động của vi sinh vật rồi đựng trong bao bì đã thanh trùng.</item>
+        </list>
+        <para id="id6491464">Căn cứ theo độ trong của sản phẩm, người ta chia nước quả thành các loại:</para>
+        <list id="id6491471" list-type="bulleted">
+          <item>Nước quả không có thịt quả: là dịch bào được tách khỏi mô quả chủ yếu bằng cách ép sau đó đem lắng rồi lọc. Tuỳ theo mức độ trong cần thiết mà người ta lọc thô (nước quả đục) hay lọc kỹ (nước quả trong).</item>
+          <item>Nước quả có thịt quả: là dịch bào lẫn với các mô được nghiền mịn và pha chế với nước đường.</item>
+        </list>
+        <para id="id6491499">Nước quả không thịt quả có hình thức hấp dẫn, ít bị biến đổi khi bảo quản hơn nước quả có thịt quả. Các loại quả chứa nhiều carotin như mơ, quít hoặc có thịt quả nạc như chuối đu đủ chỉ nên chế biến nước quả ở dạng có thịt quả, vì carotin không tan trong nước và vì mô quả quá mềm không thể lấy riêng dịch quả bằng cách ép.</para>
+      </section>
+    </section>
+    <section id="id-959728043655">
+      <title>Yêu cầu về nguyên liệu</title>
+      <para id="id6491523">Người ta dùng nhiều chủng loại hoa quả khác nhau để chế biến nước quả. Nguyên liệu cần có đủ các chất đường, acid, tanin, chất thơm, chất màu và dịch quả, các nguyên liệu đó có hương vị thơm ngon, màu sắc đẹp. Các chỉ tiêu quan trọng nhất, đặc trưng cho sản phẩm chất dịch quả là khối lượng riêng, hàm lượng chất khô và độ acid.</para>
+      <para id="id6491538">Quả dùng để chế biến nước quả phải tươi tốt, không bầm dập, sâu thối, ở độ chín đúng mức. Nếu quả chưa đủ chín thì màng tế bào cứng, dịch bào ít, nên nhiều phế liệu, và do hàm lượng đường thấp, hàm lượng acid cao nên chua nhiều. Nhưng quả chín thì mô quả mềm và bở, khi ép thịt quả kết lại không cho dịch quả thoát ra, dịch quả có nhiều bọt và khó lắng, lọc.</para>
+      <para id="id6491552">Những quả có vết rám ở ngoài vỏ không ảnh hưởng đến hương vị của dịch quả, vẫn dùng được. Kích thước và hình dáng của quả cũng không ảnh hưởng lắm đến phẩm chất nước quả nên không hạn chế.</para>
+    </section>
+    <section id="id-255255898022">
+      <title>Nước quả không thịt quả </title>
+      <para id="id6491574">1. Sơ chế nguyên liệu trước khi ép: Để nâng cao hiệu suất ép nước quả, người ta sơ chế nguyên liệu theo các cách sau:</para>
+      <list id="id6491584" list-type="bulleted">
+        <item>Nghiền: trước khi ép, quả được xử lý cơ học (cắt, xé tơi, nghiền thô). Hiệu quả nghiền đạt được khi phần lớn tế bào bị tác dụng, song vì kích thước tế bào rất nhỏ nên chỉ một số nhỏ tế bào bị phá. Ví dụ, khi nghiền quả thành miếng nhỏ 0,3 cm thì chỉ khoảng 15% lượng tế bào chung bị phá trực tiếp, do đó không nên nghiền quá to. Tuy vậy nếu nghiền quá nhỏ, thì khi ép nguyên liệu không tạo ra rãnh thoát nước quả, cũng làm giảm hiệu suất ép. Mức độ nghiền tùy thuộc từng loại quả.</item>
+        <item>Đun nóng: dưới tác dụng của nhiệt độ cao, prôtit của chất nguyên sinh bị đông tụ và vì vậy độ thẩm thấu của tế bào tăng lên. Người ta thường đun nóng quả ở nhiệt độ 80-85oC, nếu thấp hơn thì quá trình đông tụ kéo dài, nếu cao quá thì có thể gây cho nước quả có vị khó chịu.</item>
+        <item>Làm lạnh đông: Thực vật bị chết khi làm lạnh đông là vì ảnh hưởng chung của sự mất nước do tạo thành nước đá, của tác dụng độc do nồng độ acid và muối trong dịch bào tăng lên, của sức ép của tinh thể nước đá lên tế bào... Người ta sử dụng buồng lạnh thâm độ để xử lý quả ở nhiệt độ -18oC đến –30oC. Sau đó làm tan giá quả ở ngoài không khí hay ngâm trong nước lã.</item>
+      </list>
+      <para id="id6491675">Ngoài 3 phương pháp trên, người ta còn tăng hiệu suất ép bằng chế phẩm enzyme, bằng dòng điện cao tần...</para>
+      <para id="id6491684">2. Ép: Sơ chế nguyên liệu tức là làm cho dịch bào ra khỏi màng tế bào, vào khối nguyên liệu ép, còn việc tách dịch quả khỏi khối nguyên liệu ép là chức năng của quá trình ép.</para>
+      <para id="id6491696">3. Làm trong dịch quả: Dịch quả là dung dịch trong đó có đường, acid, muối, chất chát, chất màu và các chất khác của quả. Dịch quả không chỉ là dịch bào mà còn chứa các phần tử của mô quả. Kích thước và hàm lượng các phần tử này trong dịch quả tuỳ thuộc vào nguyên liệu, phương pháp sơ chế và kỹ thuật ép.</para>
+      <para id="id6491710">Dịch quả mới ép chứa các hạt lơ lửng có kích thước khác nhau: hạt thô có độ lớn trên 10-2 cm, hạt mịn 10-2 đến 5.10-5 cm, dung dịch keo có các hạt với kích thước 10-5 đến 10-7 cm. Muốn có nước quả trong suốt phải loại các hạt lơ lửng trông thấy bằng mắt thường, song do có hệ thống keo nên việc tách các hạt lơ lửng gặp trở ngại. Vì vậy phải phá huỷ hệ thống keo mới có thể tách được hết các hạt lơ lửng và làm cho dịch quả trong. Tuy nhiên, phá huỷ hoàn toàn hệ keo là khó khăn, và không cần thiết vì các chất trong hệ keo cũng là cấu tử tạo ra hương vị nước quả, vì hạt keo còn lại với kích thước nhỏ thì mắt thường cũng không phát hiện được.</para>
+      <para id="id6491789">Có nhiều phương pháp làm trong dịch quả: lọc, lắng, ly tâm, xử lý bằng đất sét, bằng chế phẩm men, bằng cách hồ, bằng cách pha trộn, bằng cách đông tụ, đun nóng và làm nguội nhanh...</para>
+      <para id="id6491801">4. Ổn định độ trong của nước quả: Nước quả đã lọc trong suốt khi bảo quản có thể bị đục trở lại và có khi kết tủa. Nước quả bị đục là do những phần tử keo còn lại trong nước quả kết tụ với nhau. Vi sinh vật cũng có thể làm đục nước quả.</para>
+      <para id="id6491815">Hiện tượng đục do keo là vì có sự biến đổi của chất màu và tanin, protid và pectin. Nhân tố chính làm thay đổi hệ thống keo chính là quá trình oxy hoá những chất có trong nước quả. Nhưng muối khoáng và độ acid hoạt động có tác dụng giữ cho nước quả đỡ bị đục.</para>
+      <para id="id6491830">Nếu bảo quản nước quả ở nhiệt độ cao quá sẽ kích thích các quá trình oxy hoá và làm nước quả bị lắng cặn. Làm lạnh đông nước quả khi bảo quản cũng làm thay đổi hệ thống keo và làm nước quả bị đục.</para>
+      <para id="id6491843">Giữ cho nước quả hoàn toàn trong là một điều khó thực hiện. Tuy nhiên ta có thể áp dụng các biện pháp sau đây để chống đục.</para>
+      <para id="id6491853">Nước quả trước khi lọc nên đun nóng lên nhiệt độ cao hơn nhiệt độ thanh trùng, nếu không, khi thanh trùng protit tiếp tục bị đông tụ và nước quả bị đục.</para>
+      <para id="id6491864">Hạn chế sự tiếp tục nước quả với oxy bằng cách bài khí nước quả, và khi ghép nắp cho hút chân không.</para>
+      <para id="id6491872">Bảo quản nước quả bằng khí trơ (khí carbonic) cũng ổn định được độ trong.</para>
+      <para id="id6491880">Thanh trùng nước quả với nhiệt độ cao và thời gian ngắn thì nước quả ít bị đục hơn với nhiệt độ thấp và thời gian dài.</para>
+      <para id="id6491890">Nên tránh bảo quản nước quả ở nhiệt độ gần 0oC làm cho không khí dễ hoà tan vào nước quả và nước quả mau đục.</para>
+      <para id="id6491910">5. Pha chế: Để tăng hương vị sản phẩm, người ta thường pha chế nước đường hoặc trộn lẫn một số loại nước quả với nhau. Ví dụ, trộn lẫn nước mơ (chứa nhiều caroten) với nước mận (nhiều vitamin B2) được sản phẩm giàu vitamin hơn.</para>
+      <para id="id6491936">Quá trình pha chế nên tiến hành trước khi lọc để loại bỏ những cặn kết tủa, hoặc trộn lẫn các loại nguyên liệu quả trước khi ép.</para>
+      <para id="id6491947">6. Bài khí: Để giữ hương vị, màu sắc và các vitamin, nước quả cần được bài khí, bằng nhiệt hoặc bằng cách hút chân không. Người ta chỉ bài khí đối với nước quả thanh trùng, vì nếu đun nóng nhiều quá thì nước quả bị biến màu và có vị nấu chín do xảy ra phản ứng melanoidin.</para>
+      <para id="id6491961">Thường thường nước quả được bài khí bằng cách hút chân không trong nhiều kiểu thiết bị khác nhau. Trên hình là sơ đồ làm việc của thiết bị bài khí APV.</para>
+      <para id="id6491972">Nguyên tắc làm việc của thiết bị như sau: nước quả từ thùng chứa được hút lên bình bài khí. Bình bài khí có vỏ thép không rỉ hình trụ, đáy hình nón, bên trong là một thùng hình trụ có đục lỗ. Nước quả đi vào phía trên của bình, được phun đều rồi chảy theo thành thùng xuống đáy và vào bơm. Trong bình độ chân không rất cao (700 - 730 mmHg) được tạo ra do vòi phun với áp suất làm việc là 8,82 - 9,80.105 N/m2.</para>
+      <para id="id4678021">7. Đóng hộp: Nước quả thường đóng trong chai, lọ thủy tinh hoặc cũng có thể đóng trong hộp sắt sơn hay không sơn vecni. Nếu đựng trong bao bì nhỏ rồi thanh trùng thì có thể không cần nâng nhiệt nước quả trước khi đóng hộp. Nếu đựng trong bao bì lớn mà không thanh trùng thì nhất thiết phải đun nóng nước quả trước khi đóng hộp.</para>
+      <para id="id4678035">8. Bảo quản nước quả: Có thể dùng các phương pháp sau đây để giữ cho nước quả khỏi bị hư hỏng.</para>
+      <list id="id4678044" list-type="enumerated">
+        <item>Thanh trùng: Người ta thường thanh trùng nước quả đóng hộp trong hộp sắt hay trong chai thuỷ tinh ở nhiệt độ 80 - 100oC với thời gian từ 10 - 40 phút (với bao bì có dung tích dưới 1000 ml) đến 40 - 60 phút (với bao bì có dung tích trên 1000 ml) tuỳ mức độ nhiễm vi sinh vật của nước quả. Sau khi thanh trùng xong phải làm nguội nhanh.</item>
+        <item>Bảo quản bằng cách rót nóng: Nước quả có độ acid cao nên là môi trường hoạt động của nấm mốc và nấm men, mà nấm mốc và nấm men lại kém chịu nhiệt. Do đó có thể bảo quản nước quả bằng cách rót nóng.</item>
+      </list>
+      <para id="id4678092">Đun nóng nước quả lên 90 - 95oC trong 30 - 40s rồi rót ngay vào lọ thủy tinh lớn (10 lít trở lên) đã sát trùng và ghép nắp ngay. Nước quả với dung tích lớn nguội chậm, nên đủ để sát trùng. Nếu đóng nước quả trong bao bì nhỏ, phương pháp này không đảm bảo.</para>
+      <list id="id4678118" list-type="enumerated">
+        <item>Bảo quản bằng CO2: Người ta nạp khí cacbonic với tỉ lệ 1,5% (theo khối lượng nước quả) để bảo quản nước quả dự trữ trong thùng chứa lớn. Độ hoà tan của CO2 trong nước quả phụ thuộc vào áp suất khí (trên mặt nước quả) và nhiệt độ của nước quả. Nhiệt độ càng thấp, áp suất càng lớn thì độ hoà tan của CO2 càng nhiều.</item>
+      </list>
+      <para id="id4678172">Để đảm bảo tỷ lệ CO2 là 1,5%, ứng với các nhiệt độ khác nhau cần có áp suất tương ứng như sau:</para>
+      <para id="id4678191">Bảng 7.2. Nhiệt độ và áp suất tương ứng để bão hòa CO2 đạt nồng độ 1,5%</para>
+      <table id="id4678210" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>Nhiệt độ oC</entry>
+              <entry>0</entry>
+              <entry>5</entry>
+              <entry>10</entry>
+              <entry>15</entry>
+              <entry>20</entry>
+            </row>
+            <row>
+              <entry>Áp suất CO2Tính bằng 105 N/m2Tính bằng atm</entry>
+              <entry>3,723,80</entry>
+              <entry>4,654,75</entry>
+              <entry>5,635,85</entry>
+              <entry>6,867,00</entry>
+              <entry>8,238,40</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4678430">(Nguyễn Vân Tiếp. 2000)</para>
+      <para id="id4678435">Nếu bảo quản ở nhiệt độ 15 - 20oC, cần có áp suất cao, thì gặp khó khăn khi thực hiện. Mặt khác, nếu bảo quản ở nhiệt độ quá thấp thì nước quả bị đóng băng và tốn chi phí làm lạnh. Tốt nhất là bảo quản nước quả bằng CO2 ở 0 - 5oC.</para>
+      <list id="id4678491" list-type="enumerated">
+        <item>Bảo quản bằng cách lọc thanh trùng: Có thể thanh trùng nước quả bằng cách lọc qua amiant ép và cellulose có lỗ đủ nhỏ để giữ lại vi sinh vật. Nước quả qua lọc cần đóng hộp ngay trong điều kiện vô trùng.</item>
+        <item>Bảo quản bằng hóa chất: Người ta còn bảo quản nước quả bán phế phẩm bằng rượu etylic, khí SO2, natri benzoat và acid sorbic.</item>
+      </list>
+      <para id="id4678532">Sau khi pha rượu với tỉ lệ 25 - 30% (so với thể tích nước quả) 15 - 25 ngày, đem gạn cặn. Lượng cặn còn lại trong nước quả không quá 0,1%.</para>
+      <para id="id4678543">Sunfit hoá nước quả bằng cách nạp khí SO2 hay cho hoá chất có chứa SO2 với hàm lượng hữu hiệu của SO2 là 0,1 - 0,15%. Trước khi sử dụng phải loại sunfit hoá nước quả bằng cách đun nóng.</para>
+      <para id="id6493290">Natri benzoat cho vào nước quả với tỉ lệ 0,1% (tính theo acid benzoic), còn acid sorbic chỉ cần ở tỉ lệ 0,05 - 0,1%.</para>
+    </section>
+    <section id="id-778114070363">
+      <title>Nước quả cô đặc</title>
+      <para id="id6493308">Nước quả cô đặc chế biến bằng cách cô đặc nước quả tự nhiên theo phương pháp đun nóng hay theo phương pháp lạnh đông. Thành phẩm có độ khô là 40 - 60%.</para>
+      <para id="id6493318">Trước khi cô đặc, cần lắng, lọc và loại trừ đến mức tối đa pectin có trong nước quả để sản phẩm khỏi bị đục và không bị đông đặc khi cô đặc.</para>
+      <para id="id6493329">Người ta thường cô đặc nước quả bằng hệ thống nồi cô chân không. Để giữ hương vị của nước quả, người ta lắp thêm thiết bị thu hồi chất thơm, rồi pha vào thành phẩm. </para>
+      <para id="id6493341">Nước quả đã cô đặc trước khi rót vào bao bì thủy tinh cần đun nóng lên 70 - 80oC. Nếu dùng bao bì dưới 1 lít thì thanh trùng ở 75oC rồi làm nguội bằng nước lạnh, nếu đựng trong bao bì lớn (từ 3 lít trở lên) không cần phải thanh trùng.</para>
+      <para id="id6493376">Cô đặc nước quả theo phương pháp lạnh đông dựa trên nguyên tắc: khi giảm nhiệt độ của dung dịch chưa bão hoà xuống dưới nhiệt độ đóng băng của nó thì dung môi (nước) sẽ đóng băng trước, còn chất hoà tan (đường, muối, acid) vẫn ở dung dịch. Tách tướng rắn khỏi tướng lỏng bằng cách chiết, lọc hay ly tâm (ly tâm vừa nhanh, vừa đỡ tổn thất nước quả) người ta thu được nước quả cô đặc. Nước quả thường được làm lạnh đông ở -10oC đến –12oC.</para>
+      <para id="id6493410">So với phương pháp bốc hơi thì phương pháp lạnh đông tuy tổn thất chất hòa tan nhiều hơn nhưng sản phẩm có chất lượng cao và giữ được dinh dưỡng nhiều hơn.</para>
+      <para id="id6493421">Để sản phẩm đạt nồng độ cao có thể kết hợp hai phương pháp lúc đầu cô đặc bằng chân không, sau đó làm lạnh đông tiếp tục cho đến độ khô cần thiết.</para>
+      <para id="id6493429">Từ nước quả cô đặc có thể chế biến thành bột quả. Pha nước đường đặc vào nước quả cô đặc rồi sấy bằng thiết bị sấy phun, ta được bột quả.</para>
+    </section>
+    <section id="id-590055909753">
+      <title>Nước quả có thịt quả </title>
+      <para id="id6493449">Một số quả như chuối, xoài, mãng cầu, ổi... khó chế biến thành nước quả không thịt quả và cho sản phẩm có chất lượng kém về hương vị và giá trị dinh dưỡng; do đó người ta chế biến thành nước quả có thịt quả.</para>
+      <para id="id6493463">Qui trình chế biến nước quả có thịt quả thường tiến hành theo sơ đồ sau:</para>
+      <figure id="id6493474">
+        <media id="id1169415604626" alt=""><image src="../../media/graphics1-e042.png" mime-type="image/png" height="523" width="151"/></media>
+      </figure>
+      <para id="id6493497">Hình 7.1. Qui trình chế biến nước quả có thịt quả</para>
+      <para id="id6493504">Trong qui trình trên, nhiều quá trình giống như trong qui trình chế biến nước quả không thịt quả. Do đó, ở phần này chỉ trình bày cách tiến hành một số quá trình riêng biệt của nước quả có thịt quả khác với nước quả không thịt quả.</para>
+      <list id="id6493518" list-type="enumerated">
+        <item>Chà: Trong nước quả có thịt quả (nectar) ngoài dịch bào còn có mô quả nghiền nhỏ. Vì vậy khi lấy dịch quả để chế biến nectar người ta dùng máy chà (hoặc máy ép kiểu trục xoắn) mà không dùng máy ép thuỷ lực hay máy ép trục vít.</item>
+      </list>
+      <para id="id6493537">Với loại quả hạch như mơ, mận, đào... người ta dùng máy chà kiểu roi thép, với các loại quả mềm như chuối, đu đủ, ổi... người ta dùng máy chà kiểu cánh đập.</para>
+      <list id="id6493548" list-type="enumerated">
+        <item>Phối chế: Khi chế biến nectar, người ta thường pha thêm đường, acid thực phẩm và nước vào dịch quả để sản phẩm đạt được yêu cầu về hương vị, màu sắc và độ đặc cần thiết.</item>
+      </list>
+      <para id="id6493567">Sản phẩm phải có hương thơm rõ rệt của nguyên liệu, vị ngọt chua thích hợp. Sản phẩm thường có độ khô 15 - 20% và có độ acid tương đương với độ acid của nguyên liệu (0,2 - 0,5%)</para>
+      <para id="id6493579">Trong quá trình chế biến, tanin trong quả thường bị oxy hoá tạo thành flobafen có màu đen. Để tránh hiện tượng này, người ta thường pha thêm chất chống oxy hoá mà thường dùng nhất là acid ascorbic (vitamin C). Vitamin C vừa có tác dụng ổn định màu sắc, vừa tăng giá trị dinh dưỡng cho sản phẩm. Khi sử dụng vitamin C, người ta gọi là vitamin hoá sản phẩm.</para>
+      <para id="id6493594">Quả chứa ít vitamin C dễ bị biến màu hơn quả có nhiều vitamin C. Trong 100 ml nước quả nếu chứa khoảng 1 mg acid ascorbic thì nước quả đó có thể để ngoài không khí trong 30 phút mà không bị biến màu.</para>
+      <para id="id6493606">Lượng vitamin C cho vào khi phối chế cần đủ để ức chế các men xúc tác phản ứng biến màu và còn dư khoảng 100 mg/l nước quả. Nếu dư quá, sản phẩm có vị chua gắt và hắc.</para>
+      <para id="id6493620">Sản phẩm cần có độ đặc vừa phải, nếu loãng quá thì kém giá trị dinh dưỡng và kém hương vị, nếu đặc quá cũng không hấp dẫn.</para>
+      <para id="id6493630">Để sản phẩm có độ đặc vừa phải, người ta thêm nước đường với tỉ lệ Purê quả/nước đường =1/0,5 - 1/2 tuỳ loại nguyên liệu.</para>
+      <list id="id6493637" list-type="enumerated">
+        <item>Đồng hoá: để có độ đặc thích hợp, mịn và ít phân lớp, vón cục, người ta đồng hoá sản phẩm bằng thiết bị đồng hoá kiểu phun có áp suất (với áp suất làm việc là 1,47 - 1,98.107 N/m2 tức 150 – 200 at) hoặc bằng thiết bị ly tâm.</item>
+      </list>
+    </section>
+    <section id="id-341239478029">
+      <title>Qui trình chế biến một số đồ hộp nước quả </title>
+      <list id="id6493684" list-type="enumerated">
+        <item>Nước dứa: Dứa thường được chế biến nước quả ở dạng không thịt quả, loại đục (lọc thô).</item>
+      </list>
+      <para id="id6493697">Các giống dứa đều có thể dùng để chế biến nước dứa được, song dứa hoa cho sản phẩm có chất lượng tốt (màu vàng đẹp, hương vị thơm ngon) và tiêu hao nguyên liệu ít nhất. Không dùng dứa quá chín (đã có mùi rượu) hoặc quá xanh, có thể dùng phối hợp các phế liệu đã loại ra khi cắt gọt trong sản xuất dứa nước đường, để chế biến nước dứa.</para>
+      <para id="id6493711">Trước khi ép, cần xé tơi dứa quả trên máy xé trục đinh để tăng hiệu suất ép. Hiệu suất ép thuỷ lực đạt 55 - 60% trong khi máy ép trục vít chỉ đạt 40 - 50%.</para>
+      <para id="id6493722">Để hương vị của sản phẩm được đồng đều và tăng lên, người ta pha thêm nước đường và acid citric để thành phẩm có độ khô 15 - 16% và độ acid 0,5 - 0,6%.</para>
+      <para id="id6493730">Sau khi phối chế, đem lọc thô nước dứa, rồi nâng nhiệt trên thiết bị truyền nhiệt kiểu bản mỏng hoặc kiểu ruột gà (chất tải nhiệt là nước sôi hay hơi nước) trong thời gian 20 - 30s để loại bỏ kết tủa. Nếu đóng trong hộp sắt số 13, số 14 thì thanh trùng theo công thức 10-20-10/100oC. Nếu đóng trong chai thuỷ tinh 0,65lít hay 0,75lít không cần phải thanh trùng, nhưng phải nâng nhiệt lên 100 - 105oC trước khi rót vào bao bì. Sau đó làm nguội nhanh bằng nước hay bằng không khí lạnh ở nhiệt độ 2 - 8oC.</para>
+      <para id="id6493782">Ở các nước, khi chế biến nước dứa người ta còn dùng máy ép trục xoắn rồi kết hợp với ly tâm cao tốc hoặc với máy đồng hoá để sản phẩm đồng nhất, được thanh trùng ở 80-82oC trong 20 - 30 phút hay 88oC hoặc rót nóng ở 88 – 90,5oC. Nước dứa còn dùng để chế biến nước quả hỗn hợp (pha chế với nước bưởi...) để rót vào đồ hộp dứa nước đường (loại thượng hạng) thay nước đường.</para>
+      <para id="id5049558">Để sản xuất 1 tấn đồ hộp nước dứa cần:</para>
+      <list id="id5049563" list-type="bulleted">
+        <item>dứa ta: 2,0 Tấn quả </item>
+        <item>dứa hoa: 1,8 Tấn quả </item>
+        <item>Nước cam, nước chanh: Nước cam, nước chanh được chế biến ở dạng nguyên chất, loại đục.</item>
+      </list>
+      <para id="id5049591">Người ta thường dùng cam chanh (tốt nhất là cam Xã Đoài) để chế biến nước cam vì giống cam này cho sản phẩm thơm ngon và ít đắng. Chỉ dùng cam vừa chín tới, thể hiện ở vỏ có màu vàng từ 2/3 diện tích quả trở lên, không dùng cam quá chín, sản phẩm dễ bị lên men và hương vị kém.</para>
+      <para id="id5049610">Các loại chanh, ruột trắng hay hồng, không khô sần có độ khô 5 - 6% và độ acid (acid citric) 4,5 – 5,0% đều dùng để chế biến nước chanh được. Có thể dùng chanh xanh hoặc mới chín (ương) nhưng không dùng chanh còn non vì nước ít và độ acid thấp.</para>
+      <para id="id5049624">Sau khi lựa chọn nguyên liệu để loại bỏ những quả không hợp qui cách (mà không cần phân loại theo kích thước) đem rửa sạch trên máy rửa hình trống hoặc bàn chải, rồi bóc sạch vỏ ngoài và cùi trắng. Ở lớp vỏ ngoài chứa nhiều tinh dầu, trong đó có lymonen, bị biến đổi thành tecpen dạng pinen dưới tác dụng của nhiệt, làm cho sản phẩm có mùi khó chịu. Ở lớp cùi trắng chứa nhiều naringin có vị đắng.</para>
+      <para id="id5049639">Để tăng hịêu suất ép, trứơc khi ép người ta xé nhỏ cam, chanh trên máy xé kiểu đĩa răng. Sau đó ép trên máy ép thuỷ lực, có áp suất ép khoảng 2,45.107 N/m2 (250 at). Nước ép ra đem lọc trên thiết bị lọc bản khung, hoặc lọc thô qua 10 - 12 lớp vải màn.</para>
+      <para id="id5049670">Quá trình nâng nhiệt, rót vào bao bì, ghép nắp cũng tiến hành giống như nước dứa.</para>
+      <para id="id5049678">Nước cam, nước chanh trong quá trình tồn trữ thì hương vị giảm sút rõ rệt. Để hạn chế tình trạng này, người ta dùng chai thuỷ tinh màu và bảo quản ở nhiệt độ 0 - 5oC.</para>
+      <para id="id5049701">Tiêu hao nguyên liệu đối với 1 tấn thành phẩm là:</para>
+      <list id="id5049707" list-type="bulleted">
+        <item>Cam chanh:1,5 tấn</item>
+        <item>Chanh: 2,2 tấn</item>
+        <item>Nước chuối: Nước chuối chế biến ở dạng nước quả có thịt quả (nectar).</item>
+      </list>
+      <para id="id5049737">Nguyên liệu chuối tiêu vụ đông xuân cho sản phẩm tốt hơn vụ hè thu. Chuối phải chín hoàn toàn nhưng không bị nẫu, không bị lên men rượu, không cần phân loại theo kích thước và có thể sử dụng cả những khúc chuối thừa ở dây chuyền đồ hộp quả nươc đường chuối loại ra.</para>
+      <para id="id5049751">Quá trình lựa chọn, rửa, bóc vỏ, tước xơ tiến hành giống như chế biến đồ hộp chuối nước đường.</para>
+      <para id="id5049760">Sau khi bóc vỏ, tước xơ người ta ngâm chuối vào nước để rửa bớt tinh bột và hoà tan tanin để sản phẩm ít bị biến màu hơn, sau đó đem chà trên máy chà có lỗ rây 1,0 - 1,5 mm.</para>
+      <para id="id5049772">Chuối qua chà (purê) được chứa ngay vào thùng có sẵn nước đường nồng độ 15% có pha thêm 0,1% acid citric và 0,05 - 0,1% acid ascorbic.</para>
+      <para id="id5049781">Tuỳ theo phẩm chất nguyên liệu và yêu cầu của sản phẩm mà tỉ lệ giữa purê chuối và nước đường 15% thay đổi khác nhau. Sau pha chế, nước chuối có độ khô 16 - 18%, độ acid (theo acid citric) 0,2 - 0,25%. Khi pha chế phải khuấy cho nước chuối thật đều.</para>
+      <para id="id5049796">Sau đó đem đồng hoá để sản phẩm đồng nhất, không bị phân lớp, áp suất làm việc là 11,76 - 14,7.106 N/m2 (120 – 150 at).</para>
+      <para id="id5049825">Trong tế bào chuối có chứa nhiều không khí (8 - 16%) nên cần đuổi bớt để sản phẩm giữ được hương, vị, màu sắc tự nhiên và đỡ bị vón cục hoặc phân lớp. Trong khi bài khí, người ta kết hợp với nâng nhiệt để tăng hiệu quả bài khí, đồng thời diệt men và sơ bộ diệt khuẩn. Có thể bài khí nước chuối trên thiết bị bài khí nhiệt hoặc trên thiết bị cô đặc chân không hai vỏ (thời gian 3 - 6 phút, nhiệt độ sau khi nâng nhiệt đạt 80 - 90oC).</para>
+      <para id="id5049851">Nước chuối bài khí và nâng nhiệt xong phải đóng hộp và ghép nắp ngay. Đóng hộp số 8 sơn vecni, ghép nắp với độ chân không 300mmHg, thanh trùng theo công thức 10-25-10/100oC.</para>
+      <para id="id5049874">Một tấn thành phẩm cần 1500 kg chuối tiêu quả.</para>
+    </section>
+  </content>
+</document>
