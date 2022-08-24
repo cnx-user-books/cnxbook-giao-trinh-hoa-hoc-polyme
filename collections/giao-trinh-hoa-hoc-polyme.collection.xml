@@ -1,3 +1,30 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10817</md:content-id>  <md:title>Giáo trình Hóa Học Polyme</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>5f4b5105-9a9a-4755-ae86-6abedbc89652</md:uuid>
-<md:slug>giao-trinh-hoa-hoc-polyme</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Tổng quan về Polyme</md:title>                                <col:content>                    <col:module document="m29866"/>                            <col:module document="m30127"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Quy Trình Công Nghệ Sản Xuất</md:title>                                <col:content>                    <col:module document="m30414"/>                            <col:module document="m30280"/>                            <col:module document="m30284"/>                            <col:module document="m30644"/>                            <col:module document="m29871"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="L&#xEA; T&#x1B0;&#x1EDD;ng Sinh">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10817</md:content-id>
+    <md:title>Gi&#xE1;o tr&#xEC;nh H&#xF3;a H&#x1ECD;c Polyme</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>5f4b5105-9a9a-4755-ae86-6abedbc89652</md:uuid>
+    <md:slug>giao-trinh-hoa-hoc-polyme</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>T&#x1ED5;ng quan v&#x1EC1; Polyme</md:title>
+      <col:content>
+        <col:module document="m29866"/>
+        <col:module document="m30127"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Quy Tr&#xEC;nh C&#xF4;ng Ngh&#x1EC7; S&#x1EA3;n Xu&#x1EA5;t</md:title>
+      <col:content>
+        <col:module document="m30414"/>
+        <col:module document="m30280"/>
+        <col:module document="m30284"/>
+        <col:module document="m30644"/>
+        <col:module document="m29871"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
